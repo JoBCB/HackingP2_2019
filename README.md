@@ -3,6 +3,8 @@ WdKA Hacking P2 2019
 
 hacker: n. [originally, someone who makes furniture with an axe](http://www.catb.org/~esr/jargon/html/H/hacker.html)
 
++ - - - - - +
+
 ## WEEK 1 
 
 **MON 8th April: 10h-13h**
@@ -32,8 +34,6 @@ hacker: n. [originally, someone who makes furniture with an axe](http://www.catb
 
 *to do* bring an 'inspection tool'.
 
-------
-
 **THURS 11th April: 12h-17h**
 
 1.Core concepts and references: Inspecting & Intervening Phygital * Anatomies
@@ -62,7 +62,7 @@ hacker: n. [originally, someone who makes furniture with an axe](http://www.catb
 
 *class at* [Varia](http://varia.zone/en/): Gouwstraat 3, Rotterdam
 
-1. Lecture by [Florian Cramer]() on the history of hacking.
+1. Lecture by [Florian Cramer](http://floriancramer.nl/) on the history of hacking.
 
 2. Workshop by Varia member tbd.
 
