@@ -1,9 +1,7 @@
 # HackingP2_2019
 WdKA Hacking P2 2019
 
-hacker: n. [originally, someone who makes furniture with an axe](http://www.catb.org/~esr/jargon/html/H/hacker.html)
-
-+ - - - - - + +
+hacker: n. [originally, someone who makes furniture with an axe](http://www.catb.org/~esr/jargon/html/H/hacker.html) + - - - - - + +
 
 ## WEEK 1 
 
