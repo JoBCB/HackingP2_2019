@@ -13,7 +13,7 @@ hacker: n. [originally, someone who makes furniture with an axe](http://www.catb
 
 - - -  Shailoh Phillips [studiobabel.nl](http://studiobabel.nl/)
 
-- - - Joana Chicau [joanachicau.com](http://www.joanachicau.com/);
+- - - Joana Chicau [joanachicau.com](http://www.joanachicau.com/); Keywords: #graphic_design  #computer_programming #interface #web_environments #embodiment #language #scores #scripts  #choreography #codes #performance #improvisation #corporeality #techno-ecologies #techno-feminism
 
 **2** Warm-up exercise: ad-hoc hacking reference;
 
