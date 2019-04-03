@@ -37,9 +37,7 @@ hacker: n. [originally, someone who makes furniture with an axe](http://www.catb
 
 **THURS 11th April: 12h-17h**
 
-1. Core concepts and references: Inspecting & Intervening Phygital * Anatomies
-
-* (aka physical and digital) 
+1. Core concepts and references: Inspecting & Intervening Phygital * Anatomies (aka physical and digital) 
 
 2. Warm-up exercise: inspect the inspection tools;
 
