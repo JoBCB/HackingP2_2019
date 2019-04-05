@@ -9,6 +9,7 @@ hacker: n. [originally, someone who makes furniture with an axe](http://www.catb
 **MON 8th April: 10h-13h**
 
 LOCATION: WH.02.108 
+
 **1** Introduction;
 
 - - -  Shailoh Phillips [studiobabel.nl](http://studiobabel.nl/)
