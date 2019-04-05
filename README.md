@@ -7,6 +7,7 @@ hacker: n. [originally, someone who makes furniture with an axe](http://www.catb
 ## WEEK 1 
 
 **MON 8th April: 10h-13h**
+
 LOCATION: WH.02.108 
 **1** Introduction;
 
@@ -36,6 +37,8 @@ LOCATION: WH.02.108
 
 **THURS 11th April: 12h-17h**
 
+LOCATION: WH.04.115
+
 **1** Core concepts and references: Inspecting & Intervening Phygital * Anatomies (aka physical and digital) 
 
 **2** Warm-up exercise: inspect the inspection tools;
@@ -47,7 +50,6 @@ LOCATION: WH.02.108
 ## WEEK 2
 
 **THURS 17th April: 09h-15h**
-LOCATION: WH.04.115
 
 Divided in two groups: 
 
