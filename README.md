@@ -7,7 +7,7 @@ hacker: n. [originally, someone who makes furniture with an axe](http://www.catb
 ## WEEK 1 
 
 **MON 8th April: 10h-13h**
-
+LOCATION: WH.02.108 
 **1** Introduction;
 
 - - -  Shailoh Phillips [studiobabel.nl](http://studiobabel.nl/)
@@ -47,6 +47,7 @@ hacker: n. [originally, someone who makes furniture with an axe](http://www.catb
 ## WEEK 2
 
 **THURS 17th April: 09h-15h**
+LOCATION: WH.04.115
 
 Divided in two groups: 
 
