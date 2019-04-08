@@ -14,13 +14,10 @@ to break into a computer system by hacking;
 to make a hack of, to put to indiscriminate or promiscuous use; to make common, vulgar, or stale, by such treatment;
 to cut or chop up or into pieces, to chop off;
 to make a clever, benign, and ethical prank or practical joke.
-
 [Hacking Feminism](http://ctm.parsons.edu/hackingfem/)
 
 
-"Hack, hacker or hacking? These concepts can be imagined as expansive, limiting and/or controversial depending on the socio-cultural forces at play." 
-
-[TransHackFeminist Manifesto!](https://transhackfeminist.noblogs.org/post/2014/07/29/transhackfeminist-manifesto/)
+"Hack, hacker or hacking? These concepts can be imagined as expansive, limiting and/or controversial depending on the socio-cultural forces at play." [TransHackFeminist Manifesto!](https://transhackfeminist.noblogs.org/post/2014/07/29/transhackfeminist-manifesto/)
 
 
 
