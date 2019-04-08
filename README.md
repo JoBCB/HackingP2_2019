@@ -20,7 +20,7 @@ LOCATION: WH.02.108
 
 **1** Introduction;
 
-- - -  Shailoh Phillips [studiobabel.nl](http://studiobabel.nl/) #more_than_human #cyborg #entanglement #tentacular_pedagogies #critical_making #coded_matter #studio_babel #tools_for_action
+- - -  Shailoh Phillips [studiobabel.nl](http://studiobabel.nl/) #entanglement #tentacular_pedagogies #critical_making #coded_matter #studio_babel #tools_for_action #more_than_human #radical_solidarity #patent_pirates
 
 - - - Joana Chicau [joanachicau.com](http://www.joanachicau.com/); #graphic_design  #computer_programming #interface #web_environments #embodiment #language #scores #scripts  #choreography #codes #performance #improvisation #corporeality #techno-ecologies #techno-feminism
 
