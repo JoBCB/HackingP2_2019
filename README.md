@@ -4,6 +4,8 @@ WdKA Hacking P2 2019
 ASSIGNMENT
 During these weeks we ask you to participate in a series of exercises, and in the end, we ask you to inspect (part of) a dynamic system, intervene, document and reflect on this. We'll introduce you to a toolbox of concepts, skills and methods to work with to be able to do this, as well as critically examining these tools. 
 
+---
+
 hacker: n. [originally, someone who makes furniture with an axe](http://www.catb.org/~esr/jargon/html/H/hacker.html) 
 + - - - - - + +
 
