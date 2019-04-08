@@ -1,12 +1,15 @@
 An example:
 
 
-## Referecences from Joana: 
+## My lexicon: 
 
-on 'Hacking' the body/ies : http://www.zachblas.info/works/facial-weaponization-suite/
+Hacking — > > inspecting and intervening  
 
-https://possiblebodies.constantvzw.org/inventory/?about (https://technofle.sh/)
 
-on 'Hacking' Language: http://siusoon.net/vocable-code/
 
-on Body Interface http://www.tmkm.dk/
+## Referecences: 
+
+[on 'Hacking' the body/ies] (http://www.zachblas.info/works/facial-weaponization-suite/)
+
+[on 'Hacking' Language](http://siusoon.net/vocable-code/)
+
