@@ -1,6 +1,6 @@
 An example:
 
-**J** knees (10 years older than the rest of the body) + JavaScript (computer language)
+**Jo:** knees (10 years older than the rest of the body) + JavaScript (computer language)
 
 ## My lexicon: 
 
