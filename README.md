@@ -7,10 +7,11 @@ During these weeks we ask you to participate in a series of exercises, and in th
 In WEEK 4 you will have to deliver a [Read Me File](https://en.wikipedia.org/wiki/README) and upload it to this GitHub repository inside the foler "Read_Me_Files". You can create a simple text file or a [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 
----
-
-hacker: n. [originally, someone who makes furniture with an axe](http://www.catb.org/~esr/jargon/html/H/hacker.html) 
 + - - - - - + +
+
+
+Hacker: n. [originally, someone who makes furniture with an axe](http://www.catb.org/~esr/jargon/html/H/hacker.html) 
+
 
 To hack:
 to cut with heavy blows in an irregular or random fashion;
@@ -32,9 +33,7 @@ to make a clever, benign, and ethical prank or practical joke.
 "Our lot is cast with technoscience, where nothing is so sacred that it cannot be re-engineered and transformed so as to widen our aperture of freedom, extending to gender and the human. To say that nothing is sacred, that nothing is transcendent or protected from the will to know, to tinker and to hack, is to say that nothing is supernatural."
  THE XENOFEMINIST MANIFESTO: A POLITICS FOR ALIENATION, LABORIA CUBONIKS 
 
-"The hacker class desires knowledge, not education. [...] Hacker knowledge implies, in its practice, a politics of free information, free learning, the gift of the result to a network of peers." 
-
-A Hacker Manifesto [version 4.0], by McKenzie Wark, 2004
+"The hacker class desires knowledge, not education. [...] Hacker knowledge implies, in its practice, a politics of free information, free learning, the gift of the result to a network of peers."  — A Hacker Manifesto [version 4.0], by McKenzie Wark, 2004
 
 
 ## WEEK 1 
