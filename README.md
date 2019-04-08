@@ -90,7 +90,7 @@ LOCATION: WH.04.115
 
 Divided in two groups: 
 
-**1/2** Shailoh: <Connectologogy>
+**1/2** Shailoh: Anatomy of Connectologogy
   
 **1/2** Joana: [Reverse Engineering Machinic Choreograhies](https://github.com/JoBCB/Rehearsal_Series)
 
