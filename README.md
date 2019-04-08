@@ -66,9 +66,12 @@ LOCATION: WH.02.108
 
 **4** Set-up Github account; 
 
-*to do* bring an 'inspection tool'.
+*homeworks to-day* bring an 'inspection tool'.
 
 * bring an association of what you know about 'hacking' (an image, a question, a definition, a strategy, or an example)
+* Create a Read_MyName file in the Github under Read_me (individually)
+* Start contributing to the little lexicon of hacking in your Read_Me file. Include a reference, a quote, a definition, a visual, a method, a question or a tool. 
+* Bring a inspection tool to class (physical and/or digital), something you use to inspect, investigate, look, probe, reveal or uncover 'hidden' qualities
 * sign up for the Autonomous Fabric event on 12 april (you can pick your own workshop) https://www.wdka.nl/news-events/autonomous-fabric-self-organisation
 
 
