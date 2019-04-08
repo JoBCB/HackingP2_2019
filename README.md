@@ -1,6 +1,9 @@
 # HackingP2_2019
 WdKA Hacking P2 2019
 
+ASSIGNMENT
+During these weeks we ask you to participate in a series of exercises, and in the end, we ask you to inspect (part of) a dynamic system, intervene, document and reflect on this. We'll introduce you to a toolbox of concepts, skills and methods to work with to be able to do this, as well as critically examining these tools. 
+
 hacker: n. [originally, someone who makes furniture with an axe](http://www.catb.org/~esr/jargon/html/H/hacker.html) 
 + - - - - - + +
 
@@ -61,6 +64,10 @@ LOCATION: WH.02.108
 [Cheatsheet on markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 *to do* bring an 'inspection tool'.
+
+* bring an association of what you know about 'hacking' (an image, a question, a definition, a strategy, or an example)
+* sign up for the Autonomous Fabric event on 12 april (you can pick your own workshop) https://www.wdka.nl/news-events/autonomous-fabric-self-organisation
+
 
 
 **THURS 11th April: 12h-17h**
