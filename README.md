@@ -4,6 +4,9 @@ WdKA Hacking P2 2019
 ASSIGNMENT
 During these weeks we ask you to participate in a series of exercises, and in the end, we ask you to inspect (part of) a dynamic system, intervene, document and reflect on this. We'll introduce you to a toolbox of concepts, skills and methods to work with to be able to do this, as well as critically examining these tools. 
 
+In WEEK 4 you will have to deliver a [Read Me File](https://en.wikipedia.org/wiki/README) and upload it to this GitHub repository inside the foler "Read_Me_Files". You can create a simple text file or a [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+
 ---
 
 hacker: n. [originally, someone who makes furniture with an axe](http://www.catb.org/~esr/jargon/html/H/hacker.html) 
@@ -62,8 +65,6 @@ LOCATION: WH.02.108
 
 
 **4** Set-up Github account; 
-
-[Cheatsheet on markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 *to do* bring an 'inspection tool'.
 
