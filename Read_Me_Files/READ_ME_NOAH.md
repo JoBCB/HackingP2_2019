@@ -12,8 +12,8 @@
 
 
 ### Grow word-pool & @ References
-..https://piratebay6.org/..
-..https://www.digitalmanifesto.net/manifestos/8/..
+⋅⋅* https://piratebay6.org/
+⋅⋅* https://www.digitalmanifesto.net/manifestos/8/
 
 
 ### Documentation from the classes
