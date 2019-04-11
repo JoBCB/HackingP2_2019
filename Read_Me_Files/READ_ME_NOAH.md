@@ -18,8 +18,10 @@
 
 
 ### Documentation from the classes
-Galloway, 
-
+James J. Gibson, The Ecological Approach to Visual Perception: Classic Edition
+ZIELINSKI: ART AND APPARATUS
+Galloway: Interface Effect
+Media vs Interface / Marshall McLuhan vs A. Gallowa
 
 ### Summary Hacking lecture by Florian Cramer
 
