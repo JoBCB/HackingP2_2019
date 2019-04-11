@@ -2,7 +2,7 @@
 WdKA Hacking P2 2019
 
 ASSIGNMENT
-During these weeks we ask you to participate in a series of exercises, and in the end, we ask you to inspect (part of) a dynamic system, intervene, document and reflect on this. We'll introduce you to a toolbox of concepts, skills and methods to work with to be able to do this, as well as critically examining these tools. 
+During these weeks we ask you to participate in a series of exercises, and in the end, *we ask you to inspect (in groups) part of a dynamic system, intervene, document and reflect on this.*  We'll introduce you to a toolbox of concepts, skills and methods to work with to be able to do this, as well as critically examining these tools. 
 
 In WEEK 4 you will have to deliver a [Read Me File](https://en.wikipedia.org/wiki/README) and upload it to this GitHub repository inside the foler "Read_Me_Files". You can create a simple text file or a [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
@@ -14,7 +14,6 @@ Check list for the Read_Me file:
  5. write a summary on the Hacking lecture by Florian Cramer;
  6. write a summary on the exercise you developed at Varia;
  7. revise all the topics above and reflect on the possible meaning of 'Hacking' (Respond to the questions: What is the context in which you operated? What phygical systems did you investigate? What did you find? What is your hacking method? If your method is a tool set, how would you explain to someone else how to use it? In what way are these tools limited/biased?);
-
 
 
 + - - - - - + +
