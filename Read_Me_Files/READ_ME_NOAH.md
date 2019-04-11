@@ -1,5 +1,5 @@
 ### Significant Words
->conscious, obliteration, creation, transcendent, alteration, yo-ho yo-ho, anarchism, antagonist, interface-based, dependant, robin hood, matrix, diy, reactive, hearing light, seeing sound, de- & encyphering, enigma, order, chaos, autonomous, anonymous, money, drugs, power, charm, manipulation, injection, code of ethics, 
+###### conscious, obliteration, creation, transcendent, alteration, yo-ho yo-ho, anarchism, antagonist, interface-based, dependant, robin hood, matrix, diy, reactive, hearing light, seeing sound, de- & encyphering, enigma, order, chaos, autonomous, anonymous, money, drugs, power, charm, manipulation, injection, code of ethics, 
 
 
 ### Reflection Porogroph on tool-based excersices
