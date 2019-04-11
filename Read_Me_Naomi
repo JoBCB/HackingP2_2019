@@ -1,0 +1,30 @@
+HACKING
+
+'the gaining of unauthorized access to data in a system or computer.' 
+Hackers employ a variety of techniques for hacking, including:
+Vulnerability scanner: checks computers on networks for known weaknesses
+Password cracking: the process of recovering passwords from data stored or transmitted by computer systems
+Packet sniffer: applications that capture data packets in order to view data and passwords in transit over networks
+Spoofing attack: involves websites which falsify data by mimicking legitimate sites, and they are therefore treated as trusted sites by users or other programs
+Root kit: represents a set of programs which work to subvert control of an operating system from legitimate operators
+Trojan horse: serves as a back door in a computer system to allow an intruder to gain access to the system later
+Viruses: self-replicating programs that spread by inserting copies of themselves into other executable code files or documents
+Key loggers: tools designed to record every keystroke on the affected machine for later retrieval
+
+
+
+
+''We make use of a service already existing without paying
+for what could be dirt-cheap if it wasn't run by profiteering gluttons, and
+you call us criminals.''
+
+...
+
+'' My crime is that of curiosity.''
+
+...
+
+''My crime is that of outsmarting you, something that you will never forgive me
+for.''
+
+Quotes out of A Hacker's Manifesto: The conscience of a hacker
