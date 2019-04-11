@@ -80,7 +80,7 @@ LOCATION: WH.02.108
 * Create a Read_MyName file in the Github under Read_me (individually)
 * Start contributing to the little lexicon of hacking in your Read_Me file. Include a reference, a quote, a definition, a visual, a method, a question or a tool. 
 * Bring a inspection tool to class (physical and/or digital), something you use to inspect, investigate, look, probe, reveal or uncover 'hidden' qualities
-* sign up for the Autonomous Fabric event on 12 april (you can pick your own workshop) https://www.wdka.nl/news-events/autonomous-fabric-self-organisation
+* sign up for the Autonomous Fabric event on 12 april (you can pick your own workshop)[https://www.wdka.nl/news-events/autonomous-fabric-self-organisation]
 
 
 
@@ -94,6 +94,8 @@ LOCATION: WH.04.115
 
 **2** Warm-up exercise: inspect the inspection tools;
 
+
+*homeworks to-day* bring 'something' to inspect.
 
 
 ## WEEK 2
