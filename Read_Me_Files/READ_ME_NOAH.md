@@ -14,14 +14,8 @@
 ### Grow word-pool & @ References
 * https://piratebay6.org/
 * https://www.digitalmanifesto.net/manifestos/8/
-<dl>
-  <dt>* https://piratebay6.org/ t</dt>
-  <dd>Is something people use sometimes.</dd>
+* http://joanachicau.com/Hacking.html
 
-  <dt>* https://www.digitalmanifesto.net/manifestos/8/</dt>
-  <dd>Is one of the manifestos</dd>
-  
-</dl>
 
 ### Documentation from the classes
 Galloway, 
