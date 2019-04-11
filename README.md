@@ -90,6 +90,8 @@ LOCATION: WH.04.115
 
 **1** Core concepts and references: Inspecting & Intervening Phygital * Anatomies (aka physical and digital) 
 
+(find here link to presentation and exercises)[http://joanachicau.com/Hacking.html]
+
 **2** Warm-up exercise: inspect the inspection tools;
 
 **3** Anatomical drawing lessons (Joseph)
