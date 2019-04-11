@@ -84,7 +84,7 @@ LOCATION: WH.02.108
 
 
 
-**THURS 11th April: 12h-17h**
+**THURS 11th April: 12h-15h30**
 
 LOCATION: WH.04.115
 
