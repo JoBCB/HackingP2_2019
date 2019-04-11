@@ -14,7 +14,15 @@
 ### Grow word-pool & @ References
 https://piratebay6.org/ 
 https://www.digitalmanifesto.net/manifestos/8/
+http://joanachicau.com/Hacking.html
 
+<dl>
+  <dt>https://piratebay6.org/ t</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>https://www.digitalmanifesto.net/manifestos/8/</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
 
 ### Documentation from the classes
 Galloway, 
