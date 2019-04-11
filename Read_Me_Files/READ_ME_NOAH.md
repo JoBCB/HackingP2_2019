@@ -15,10 +15,10 @@
 * https://piratebay6.org/
 * https://www.digitalmanifesto.net/manifestos/8/
 <dl>
-  <dt>https://piratebay6.org/ t</dt>
+  <dt>* https://piratebay6.org/ t</dt>
   <dd>Is something people use sometimes.</dd>
 
-  <dt>https://www.digitalmanifesto.net/manifestos/8/</dt>
+  <dt>* https://www.digitalmanifesto.net/manifestos/8/</dt>
   <dd>Is one of the manifestos</dd>
   
 </dl>
