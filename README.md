@@ -99,7 +99,7 @@ LOCATION: WH.04.115
 
 ## WEEK 2
 
-**THURS 18th April: 09h-15h**
+**WED 17th/ THURS 18th April: 09h-15h**
 
 Divided in two groups: 
 
