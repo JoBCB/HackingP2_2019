@@ -94,8 +94,6 @@ LOCATION: WH.04.115
 
 **2** Warm-up exercise: inspect the inspection tools;
 
-**3** Anatomical drawing lessons (Joseph)
-
 
 
 ## WEEK 2
@@ -107,6 +105,13 @@ Divided in two groups:
 **1/2** Shailoh: Anatomy of Connectologogy
   
 **1/2** Joana: [Reverse Engineering Machinic Choreograhies](https://github.com/JoBCB/Rehearsal_Series)
+
+
+**THURS 18th April: 14h30-17h**
+
+LOCATION: Drawing Station
+
+**1** Anatomical Anatomic Drawing Lessons (with Joseph)
 
 
 
