@@ -122,7 +122,7 @@ LOCATION: Drawing Station
 
 ## WEEK 3 Fieldwork
 
-**WEDNESDAY 24th April: 10h-15h**
+**WEDNESDAY 24th April: 9:30h-15:000**
 
 *class at* [Varia](http://varia.zone/en/): Gouwstraat 3, Rotterdam
 
@@ -134,6 +134,7 @@ LOCATION: Drawing Station
 
 ## WEEK 4 Presentations
 
-**MON 13th May: 10h-15h**
+**MON 13th May: 10h-12h**
 
+Location: WH.04.115 
 Group presentations and evaluation;
