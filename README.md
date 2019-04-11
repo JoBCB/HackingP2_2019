@@ -45,7 +45,7 @@ to make a clever, benign, and ethical prank or practical joke.
 "The hacker class desires knowledge, not education. [...] Hacker knowledge implies, in its practice, a politics of free information, free learning, the gift of the result to a network of peers."  — A Hacker Manifesto [version 4.0], by McKenzie Wark, 2004
 
 
-## WEEK 1 
+## WEEK 1: Introduction
 
 **MON 8th April: 10h-13h**
 
@@ -84,7 +84,7 @@ LOCATION: WH.02.108
 
 
 
-**THURS 11th April: 12h-15h30**
+**THURS 11th April: 12h-15h30 Core concepts in Hacking Anatomies**
 
 LOCATION: WH.04.115
 
@@ -98,28 +98,31 @@ LOCATION: WH.04.115
 *homeworks to-day* bring 'something' to inspect.
 
 
-## WEEK 2
+## WEEK 2 Hacking in Context
 
-**WED 17th April: 09h-15h**
+**WEDEDNESDAY 17th April: 09h-15h**
 
-Divided in two groups: 
+Location: Education Station WH 02.209
+
+2 workshops, divided in two groups (all students will do both, switch at 12.30): 
 
 **1/2** Shailoh: Anatomy of Connectologogy
   
 **1/2** Joana: [Reverse Engineering Machinic Choreograhies](https://github.com/JoBCB/Rehearsal_Series)
 
+Forming groups
+Bring your laptops (if you have them)!
 
-**THURS 18th April: 14h30-17h**
+**THURSDAY 18th April: 14h30-17h**
 
 LOCATION: Drawing Station
 
-**1** Anatomical Anatomic Drawing Lessons (with Joseph)
+**1** Anatomical Anatomic Drawing Lessons (with Joseph Huges)
 
 
+## WEEK 3 Fieldwork
 
-## WEEK 3
-
-**THURS 24th April: 10h-15h**
+**WEDNESDAY 24th April: 10h-15h**
 
 *class at* [Varia](http://varia.zone/en/): Gouwstraat 3, Rotterdam
 
@@ -129,7 +132,7 @@ LOCATION: Drawing Station
 
 
 
-## WEEK 4 
+## WEEK 4 Presentations
 
 **MON 13th May: 10h-15h**
 
