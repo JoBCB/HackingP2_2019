@@ -11,7 +11,7 @@
 >touching, looking, listening, deducting what its made of and why, touching in a pool of beforehand attained theoretical knowlegde, 
 
 
-### Grow word-pool & @ References
+### More words & @ References
 * https://piratebay6.org/
 * https://www.digitalmanifesto.net/manifestos/8/
 * http://joanachicau.com/Hacking.html
