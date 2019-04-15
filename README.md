@@ -109,29 +109,29 @@ Location: Education Station WH 02.209
 2 workshops, divided in two groups (all students will do both, switch at 12.30): 
 
 
-**1/2** Shailoh: Anatomy of Connectologogy
+- - -  Shailoh: Anatomy of Connectologogy
 
 ***
 
-**1/2** Joana: [Reverse Engineering Machinic Choreograhies](https://github.com/JoBCB/Rehearsal_Series)
+- - -  Joana: [Reverse Engineering Machinic Choreograhies](https://github.com/JoBCB/Rehearsal_Series)
 
 *Agenda:*
 
-•    15min — embodiment: a series of movement exercises;
+⋅⋅⋅ •    15min — embodiment: a series of movement exercises;
 
 **What is choreography?**
 
-•    15min — [ChoreoGraphic Coding](http://joanachicau.com/Media_Choreographies.html) — presentation on research; projects and methodology; examples of movement scores & programming scripts; 
+⋅⋅⋅ •    15min — [ChoreoGraphic Coding](http://joanachicau.com/Media_Choreographies.html) — presentation on research; projects and methodology; examples of movement scores & programming scripts; 
 
-•    15min — read and discuss the text [Choreographic Objects](https://www.williamforsythe.com/essay.html) — highlight 3 first paragraphs;
+⋅⋅⋅ •    15min — read and discuss the text [Choreographic Objects](https://www.williamforsythe.com/essay.html) — highlight 3 first paragraphs;
 
-•    30min — in groups: [Scores & Scripts — a bestiary of intents](http://www.ppig.org/sites/ppig.org/files/2017-PPIG-28th-church.pdf) - mapping "choreographic agents" exercise; brainstorm and collect references;
+⋅⋅⋅ •    30min — in groups: [Scores & Scripts — a bestiary of intents](http://www.ppig.org/sites/ppig.org/files/2017-PPIG-28th-church.pdf) - mapping "choreographic agents" exercise; brainstorm and collect references;
 
 [break]
 
 **Make your own choreographies**
 
-•    30min — in groups: 
+⋅⋅⋅ •    30min — in groups: 
 
 01. Select languages (eg.: "natural" dutch/ english and programming)
 
@@ -141,15 +141,15 @@ Location: Education Station WH 02.209
 
 04. Inspect & Intervene (perform the code(s) — eg.: human & machine = dancing)
 
-•    30min — presentations; final discussion and critical reflections on the works/methodologies;
+⋅⋅⋅ •    30min — presentations; final discussion and critical reflections on the works/methodologies;
 
 
-References from Joana:
+More references from Joana:
 
-	•	[on 'Hacking' the body/ies 01](http://www.zachblas.info/works/facial-weaponization-suite/)
-	•	[on 'Hacking' the body/ies 02](https://possiblebodies.constantvzw.org/inventory/?about)
-	•	[on 'Hacking' Language](http://siusoon.net/vocable-code/)
-	•	[on Hacking Cultures](https://www.lullabot.com/podcasts/hacking-culture)
+	•on 'Hacking' the body/ies 01: http://www.zachblas.info/works/facial-weaponization-suite/
+	•on 'Hacking' the body/ies 02: https://possiblebodies.constantvzw.org/inventory/?about)
+	•on 'Hacking' Language: http://siusoon.net/vocable-code/
+	•on 'Hacking' Cultures: https://www.lullabot.com/podcasts/hacking-culture
 
 ***
 
