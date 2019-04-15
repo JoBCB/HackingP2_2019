@@ -129,17 +129,17 @@ Location: Education Station WH 02.209
 
 [break]
 
-**Make your own choreographies**
+**Make your own choreography: Acts of Inspection**
 
 ⋅⋅⋅ •    30min — in groups: 
 
-01. Select languages (eg.: "natural" dutch/ english and programming)
+**01.** present what you brought to inspect to other members of your group; collectively choose 2 objects/ systems /...
 
-02. Write a score / script (eg.: for humans and the machine);
+**02.** write a choreography on how to "Inspect & Intervene" (eg.: an instruction based text for humans and/or the machines to perform);
 
-03. Define a "stage" (eg.: a computing environment such as the web / or a software you use)
+**03.** perform the choreography (let the dance begin!)
 
-04. Inspect & Intervene (perform the code(s) — eg.: human & machine = dancing)
+Go through the steps below and develop a choreography for the second object. Discuss the different and similarities in the approach.
 
 ⋅⋅⋅ •    30min — presentations; final discussion and critical reflections on the works/methodologies;
 
