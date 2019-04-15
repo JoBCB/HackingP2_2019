@@ -113,7 +113,7 @@ Location: Education Station WH 02.209
 Forming groups
 Bring your laptops (if you have them)!
 
-**THURSDAY 18th April: 14h30-17h**
+**THURSDAY 18th April: 13:00 - 15:30**
 
 LOCATION: Drawing Station
 
