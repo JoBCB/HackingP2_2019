@@ -90,12 +90,14 @@ LOCATION: WH.04.115
 
 **1** Core concepts and references: Inspecting & Intervening Phygital * Anatomies (aka physical and digital) 
 
-(find here link to presentation and exercises)[http://joanachicau.com/Hacking.html]
+[find here link to presentation and exercises](http://joanachicau.com/Hacking.html)
 
 **2** Warm-up exercise: inspect the inspection tools;
 
 
-*homeworks to-day* bring 'something' to inspect.
+*homeworks to-day* bring 'something' to inspect. Bring your laptops (if you have them)!
+
+Forming groups
 
 
 ## WEEK 2 Hacking in Context
@@ -106,12 +108,50 @@ Location: Education Station WH 02.209
 
 2 workshops, divided in two groups (all students will do both, switch at 12.30): 
 
+
 **1/2** Shailoh: Anatomy of Connectologogy
-  
+
+***
+
 **1/2** Joana: [Reverse Engineering Machinic Choreograhies](https://github.com/JoBCB/Rehearsal_Series)
 
-Forming groups
-Bring your laptops (if you have them)!
+*Agenda:*
+
+•    15min — embodiment: a series of movement exercises;
+
+**What is choreography?**
+
+•    15min — [ChoreoGraphic Coding](http://joanachicau.com/Media_Choreographies.html) — presentation on research; projects and methodology; examples of movement scores & programming scripts; 
+
+•    15min — read and discuss the text [Choreographic Objects](https://www.williamforsythe.com/essay.html) — highlight 3 first paragraphs;
+
+•    30min — in groups: [Scores & Scripts — a bestiary of intents](http://www.ppig.org/sites/ppig.org/files/2017-PPIG-28th-church.pdf) - mapping "choreographic agents" exercise; brainstorm and collect references;
+
+[break]
+
+**Make your own choreographies**
+
+•    30min — in groups: 
+
+01. Select languages (eg.: "natural" dutch/ english and programming)
+
+02. Write a score / script (eg.: for humans and the machine);
+
+03. Define a "stage" (eg.: a computing environment such as the web / or a software you use)
+
+04. Inspect & Intervene (perform the code(s) — eg.: human & machine = dancing)
+
+•    30min — presentations; final discussion and critical reflections on the works/methodologies;
+
+
+References from Joana:
+
+	•	[on 'Hacking' the body/ies 01](http://www.zachblas.info/works/facial-weaponization-suite/)
+	•	[on 'Hacking' the body/ies 02](https://possiblebodies.constantvzw.org/inventory/?about)
+	•	[on 'Hacking' Language](http://siusoon.net/vocable-code/)
+	•	[on Hacking Cultures](https://www.lullabot.com/podcasts/hacking-culture)
+
+***
 
 **THURSDAY 18th April: 13:00 - 15:30**
 
