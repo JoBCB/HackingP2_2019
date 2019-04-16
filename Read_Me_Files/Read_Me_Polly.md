@@ -5,6 +5,7 @@ Hacking is showing up to a party uninvited
 11111111111111111111111111111111111111111111111111111111111111111111111111111
 
 8.4
+
 A body part that represents me was my back, and an extention of me was a sofa.
 
 My group read the hacker manifesto, a text from the 80s by what sounded like an angry teenager.
@@ -13,6 +14,7 @@ Hacking was described as an action done by very smart individuals who are bored 
 222222222222222222222222222222222222222222222222222222222222222222222222222222
 
 11.4
+
 The object I brough was a stanly knife.
 In hebrew they call it a japanese knife and i never checked why. It was invented by 2 japanese brothers that work in the paper industry and until that point cut their paper with a razor blade.
 Appearntly they were also inspired by the way chocolate bars were broken into cubes when the americans hung out in japan after WW2, so they combined that into a knife.
