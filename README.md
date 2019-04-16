@@ -153,6 +153,10 @@ More references from Joana:
 
 ***
 
+*homeworks to-day* bring 'an ingredient' for the next class at [Varia](http://varia.zone/en/)!
+
+
+
 **THURSDAY 18th April: 13:00 - 15:30**
 
 LOCATION: Drawing Station
