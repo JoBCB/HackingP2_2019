@@ -152,7 +152,7 @@ More references from Joana:
 	•on 'Hacking' Cultures: https://www.lullabot.com/podcasts/hacking-culture
 
 
-*homework* bring 'an ingredient' for the next class at [Varia](http://varia.zone/en/)!
+**HOMEWORK** bring 'an ingredient' for the next class at [Varia](http://varia.zone/en/)!
 
 ***
 
