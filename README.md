@@ -164,6 +164,14 @@ LOCATION: Drawing Station
 **1** Anatomical Anatomic Drawing Lessons (with Joseph Huges)
 
 
+> For this workshop you will need to bring to the lesson:
+> 1. your inspection tools(s)
+> 2. 11 A3 scans/ photocopies/images of your body (see image provided)   
+> 3. an example of your favorite / most recent hack in picture format (A4)
+> 4. a piece of fruit
+
+
+
 ## WEEK 3 Fieldwork
 
 **WEDNESDAY 24th April: 9:30h-15:000**
