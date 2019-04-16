@@ -151,10 +151,10 @@ More references from Joana:
 	•on 'Hacking' Language: http://siusoon.net/vocable-code/
 	•on 'Hacking' Cultures: https://www.lullabot.com/podcasts/hacking-culture
 
+
+*homework* bring 'an ingredient' for the next class at [Varia](http://varia.zone/en/)!
+
 ***
-
-*homeworks to-day* bring 'an ingredient' for the next class at [Varia](http://varia.zone/en/)!
-
 
 
 **THURSDAY 18th April: 13:00 - 15:30**
@@ -169,6 +169,10 @@ LOCATION: Drawing Station
 **WEDNESDAY 24th April: 9:30h-15:000**
 
 *class at* [Varia](http://varia.zone/en/): Gouwstraat 3, Rotterdam
+
+
+> bring 'an ingredient' for this session at [Varia](http://varia.zone/en/)!
+
 
 **1** Lecture by [Florian Cramer](http://floriancramer.nl/) on the history of hacking.
 
