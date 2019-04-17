@@ -12,26 +12,69 @@ But also in life, films or data.
 <img src="http://blog.thequietman.co.uk/wp-content/uploads/2011/05/Quiet-Man-type-low-res.jpg" width="400" height="600" />
 </details>
 
+---
+
 **Looking at inspection tool**
-**Notes**
+
+<details> 
+ <summary> Schaar </summary>
+* 2 Messen met zwaartekracht
+* Herkenbaar geluid
+* 2 objecten = 1 vast
+* 2 benen, 2 ogen, 2 personen
+* Geluid bouwt op naar een afsluiting
+* Weerspiegeld
+* Stainless steel with stains
+* Tegenovergestelde
+* zachte rond handvat
+* twee scherpe messen
+* Assosiatie bang voor jezelf snijden
+* Ook nostalgisch
+* Een vloeiend object
+* Een zwaartekracht object, valt naar beneden
+* Het past perfect
+* Sterk en robuust
+* Gebruikersvriendelijk en gemaakt om vast te houden
+</details>
+
+<details> 
+ <summary> Reflection on looking </summary>
+*
+</details>
 
 
-2 Messen met zwaartekracht
-Herkenbaar geluid
-2 objecten = 1 vast
-2 benen, 2 ogen, 2 personen
-Geluid bouwt op naar een afsluiting
-Weerspiegeld
-Stainless steel with stains
-Tegenovergestelde
-zachte rond handvat
-twee scherpe messen
-Assosiatie bang voor jezelf snijden
-Ook nostalgisch
-Een vloeiend object
-Een zwaartekracht object, valt naar beneden
-Het past perfect
-Sterk en robuust
-Gebruikersvriendelijk en gemaakt om vast te houden
+<details> 
+ <summary> Geodriehoek </summary>
+* Gelegd over tekst en wordt een masker
+* Een niet definitieve cut up techniek
+* 2 objecten = 1 vast
+* 2 benen, 2 ogen, 2 personen
+* Geluid bouwt op naar een afsluiting
+* Weerspiegeld
+* Stainless steel with stains
+* Tegenovergestelde
+* zachte rond handvat
+* twee scherpe messen
+* Assosiatie bang voor jezelf snijden
+* Ook nostalgisch
+* Een vloeiend object
+* Een zwaartekracht object, valt naar beneden
+* Het past perfect
+* Sterk en robuust
+* Gebruikersvriendelijk en gemaakt om vast te houden
+</details>
+
+---
+
+<details> 
+ <summary> What is the meaning of choreography? </summary>
+* Inspected the reading possibilities in a flyer
+* Graphic design 
+</details>
 
 
+<details> 
+ <summary> Inspecting flyer  </summary>
+* Inspected the reading possibilities in a flyer
+* Graphic design 
+</details>
