@@ -11,7 +11,6 @@ But also in life, films or data.
  <summary> Example hacking </summary>
 <img src="http://blog.thequietman.co.uk/wp-content/uploads/2011/05/Quiet-Man-type-low-res.jpg" width="400" height="600" />
 </details>
----
 ### Looking at inspection tool
 ## Notes
 <details>
