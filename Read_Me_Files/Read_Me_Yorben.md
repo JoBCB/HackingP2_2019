@@ -11,11 +11,11 @@ But also in life, films or data.
  <summary> Example hacking </summary>
 <img src="http://blog.thequietman.co.uk/wp-content/uploads/2011/05/Quiet-Man-type-low-res.jpg" width="400" height="600" />
 </details>
-### Looking at inspection tool
-## Notes
-<details>
- <summary> Scissor 
- </summary>
+
+**Looking at inspection tool**
+**Notes**
+
+
 2 Messen met zwaartekracht
 Herkenbaar geluid
 2 objecten = 1 vast
@@ -32,6 +32,6 @@ Een vloeiend object
 Een zwaartekracht object, valt naar beneden
 Het past perfect
 Sterk en robuust
- Gebruikersvriendelijk en gemaakt om vast te houden
- </details>
+Gebruikersvriendelijk en gemaakt om vast te houden
+
 
