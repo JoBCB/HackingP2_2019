@@ -194,3 +194,9 @@ LOCATION: Drawing Station
 
 Location: WH.04.115 
 Group presentations and evaluation;
+
+*Assignment:*
+
+1) collectively: inspect (part of) a dynamic system, intervene — 15min group presentations;
+
+2) individually: document and reflect on this  — deliver as a "read_me" file;
