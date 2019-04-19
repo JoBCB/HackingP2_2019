@@ -77,4 +77,27 @@ But also in life, films or data.
  <summary> Inspecting flyer  </summary>
 * Inspected the reading possibilities in a flyer
 * Graphic design 
+* Cutting so you still can read it
+ 
+<img> 
+</details>
+
+---
+
+
+<details> 
+ <summary> Inspecting a connector </summary>
+* Water heater
+* Vloeiende buis voor water
+* 1 Connector (digitaal)
+* Geheel is een connector
+* Draden zelf kunnen connecten
+* Draad door buis
+* Een groot onderdeel bestaande uit onderdeel
+* Complex object
+* Gelast aan elkaar
+* Gelijmd aan elkaar
+* Zwaar object
+* Kruik gebruikt worden // Alles wat opgewarmt moet worden
+* Het kan een airco worden 
 </details>
