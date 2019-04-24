@@ -44,7 +44,7 @@ to make a clever, benign, and ethical prank or practical joke.
 
 "The hacker class desires knowledge, not education. [...] Hacker knowledge implies, in its practice, a politics of free information, free learning, the gift of the result to a network of peers."  — A Hacker Manifesto [version 4.0], by McKenzie Wark, 2004
 
-[More links:](https://www.obn.org/hackers/links.htm)
+[> More links <](https://www.obn.org/hackers/links.htm)
 
 ## WEEK 1: Introduction
 
@@ -187,9 +187,9 @@ LOCATION: Drawing Station
 
 _some references:_
 
-[Social Hacking, Revisited — Florian Cramer](http://artwarez.org/projects/nagBOOK/texte/florian_eng.html)
+⋅⋅⋅ • [Social Hacking, Revisited — Florian Cramer](http://artwarez.org/projects/nagBOOK/texte/florian_eng.html)
 
-[What is a hacker?](http://www.catb.org/jargon/html/H/hacker.html)
+⋅⋅⋅ • [What is a hacker?](http://www.catb.org/jargon/html/H/hacker.html)
 
 **2** Workshop by Varia members Niek and Lidia; part of [Varia Curriculum](http://varia.zone/category/curriculum.html).
 
