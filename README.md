@@ -196,13 +196,13 @@ _some references:_
 
 ## WEEK 4 Presentations
 
-**MON 13th May: 10h-12h**
+**MON 13th May: 09h-11h00**
 
 Location: WH.04.115 
 Group presentations and evaluation;
 
 *Assignment:*
 
-1) collectively: inspect (part of) a dynamic system, intervene — 15min group presentations;
+1) collectively: inspect (part of) a dynamic system, intervene — 10min group presentations + 10min discussions;
 
 2) individually: document and reflect on this  — deliver as a "read_me" file;
