@@ -4,7 +4,7 @@ WdKA Hacking P2 2019
 ASSIGNMENT
 During these weeks we ask you to participate in a series of exercises, and in the end, *we ask you to inspect (in groups) part of a dynamic system, intervene, document and reflect on this.*  We'll introduce you to a toolbox of concepts, skills and methods to work with to be able to do this, as well as critically examining these tools. 
 
-In WEEK 4 you will have to deliver a [Read Me File](https://en.wikipedia.org/wiki/README) and upload it to this GitHub repository inside the foler "Read_Me_Files". You can create a simple text file or a [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+In WEEK 4 you will have to deliver a [Read Me File](https://en.wikipedia.org/wiki/README) and upload it to this GitHub repository inside the folder "Read_Me_Files". You can create a simple text file or a [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 Check list for the Read_Me file:
  1. select a list of keywords/ glossary about what Hacking is/ can be (tip: re-read the manifesto);
