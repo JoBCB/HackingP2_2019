@@ -5,6 +5,7 @@ Please write here the list of different groups:
 Koen, Sam, Yorbin, Sara, Louise, Lois, Nanco 
 
 **group 02**
+Koen, Yasmine, Anouk
 
 
 **group 03**
