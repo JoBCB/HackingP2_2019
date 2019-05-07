@@ -17,17 +17,17 @@ to make a hack of, to put to indiscriminate or promiscuous use; to make common, 
 to cut or chop up or into pieces, to chop off;
 to make a clever, benign, and ethical prank or practical joke.
 
- we create the possibility of new things entering the world
+We create the possibility of new things entering the world
 
 While hackers create these new worlds, we do not possess them. 
 
 To hack is to produce or apply the abstract to information and express the possibility of new worlds.
 
- The class interest of hackers lies in freeing information from its material constraints.
+The class interest of hackers lies in freeing information from its material constraints.
 
 The virtual is the true domain of the hacker. It is from the virtual that the hacker produces ever-new expressions of the actual. To the hacker, what is represented as being real is always partial, limited, perhaps even false. To the hacker there is always a surplus of possibility expressed in what is actual, the surplus of the virtual. This is the inexhaustible domain of what is real without being actual, what is not but which may be. To hack is to release the virtual into the actual, to express the difference of the real.
 
- the hacker class produces the possibility of production, the possibility of making something of and with the world - and of living off the surplus produced by the application of abstraction to nature - to any nature. Through the production of new forms of abstraction, the hacker class produces the possibility of the future - not just 'the' future, but an infinite possible array of futures, the future itself as virtualit
+The hacker class produces the possibility of production, the possibility of making something of and with the world - and of living off the surplus produced by the application of abstraction to nature - to any nature. Through the production of new forms of abstraction, the hacker class produces the possibility of the future - not just 'the' future, but an infinite possible array of futures, the future itself as virtualit
 
 XF seizes alienation as an impetus to generate new worlds. We are all alienated — but have we ever been otherwise? It is through, and not despite, our alienated condition that we can free ourselves from the muck of immediacy. Freedom is not a given — and it’s certainly not given by anything ‘natural’. The construction of freedom involves not less but more alienation; alienation is the labour of freedom’s construction. Nothing should be accepted as fixed, permanent, or ‘given’ — neither material conditions nor social forms. XF mutates, navigates and probes every horizon. Anyone who’s been deemed ‘unnatural’ in the face of reigning biological norms, anyone who’s experienced injustices wrought in the name of natural order, will realize that the glorification of ‘nature’ has nothing to offer us — the queer and trans among us, the differently abled, as well as those who have suffered discrimination due to pregnancy or duties connected to child-rearing. XF is vehemently anti-naturalist. Essentialist naturalism reeks of theology — the sooner it is exorcised, the better.
 
