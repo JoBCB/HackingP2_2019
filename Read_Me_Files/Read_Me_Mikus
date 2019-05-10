@@ -1,5 +1,9 @@
 "I was fascinated with the phone system and how it worked; I became a hacker to get better control over the phone company." 
 -Kevin Mitnick
+(I personally really like this quote because it implies that hacking let the individual have control over a large system and 
+demosntrated that hacking can really work as a way to give leverage to individuals over larger, more powerful systems)
+
+[Glossary]
 Hacking: to chop/cut
 
 Hacking: the gaining of unauthorized access to data in a system or computer
@@ -8,6 +12,12 @@ Exploit: a software tool designed to take advantage of a flaw in a computer syst
 typically for malicious purposes such as installing malware.
 
 Choreography: the art or practice of designing choreographic sequences.
+
+System:a set of principles or procedures according to which something is done; an organized scheme or method
+
+[Reading the manifesto]
+During the introductory class we were required to read a few hacker manifestos. These offered a wide range of views and 
+mindsets of various forms of hacker groups. 
 
 [OBSERVATIONAL TOOL EXERCISE]
 In class we were asked to bring a tool we use for some form of observation. 
@@ -85,4 +95,33 @@ While I think this exercise sounds fun in theory,
 in practice it was the dictionary definition of the phrase “Too many cooks spoil the broth” 
 as trying to make a soup with that many people inolved was problematic. 
 
+[Group Work]
+
+Our group work really started after the Varia workshop as we met up and started by suggesting possible systems 
+we were each interested in exploring. This included bitcoin, the stock market, Multi-Level Marketing companies etc. 
+
+Eventually we settled on the the instagram censorship system. I was informed that the instagram censorship algorythm 
+has no problems with male nipples being displayed on images while female nipples are considered in-breach of instagram's 
+policies. This quickly became our subject because it was at once something we could wrap our minds around and, to be honest, 
+also seemed like a pretty funny topic. 
+The next step was figuring out how to trick the censorship. We did this by finding creative ways to "sneak" images of female
+nipples into other images to confuse the algorythm. We are also attempting to promote one of these posts to test this. 
+The subject matter made for a pretty playful work environment and relates to my previous statements about bringing humor into hacking. 
+
+The main method here was simple: look at the automated instagram censorship system and find ways to subvert it
+by creating images where humans can recognize the context but might confuse the algorythm. 
+(We worked under the assumption that the automized nature of the censorship was a weakness in the system that we could exploit).
+
 [Reflection]
+
+During this course I learned the basic process of hacking: to look at a larger system of processes, find an aspect of 
+the system that is open for human manipulation, understanding/experimenting to see how this manipulation influences 
+the system itself and adapting to it. 
+
+I can't really list any physical tools that I can say I will use for any hack now. The main "tool" I gained was my understanding 
+of how the thought process of hacking works for me. 
+
+The bias of this tool is just whatever my own personal blindspots and bias' are. 
+For example: as someone who is male and also doesn't use instagram often, I could never have come up with the subject matter for 
+our group assignment and had to be educated by my peers on the details of it. After that, however, coming up with the methodology and 
+producing the images was a great deal of fun. 
