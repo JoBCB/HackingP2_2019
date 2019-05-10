@@ -9,6 +9,7 @@ Koen, Yasmine, Anouk
 
 
 **group 03**
+Nikki, Loïs, Eline, Charlotte, Kamiel, Michael, Noah & Derrick
 
 
 **group 04**
