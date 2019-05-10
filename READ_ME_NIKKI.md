@@ -1,6 +1,5 @@
 **08/04___Glossary: hacking  **                                                             
-
-DICTIONARY 
+ 
 hacking
 /ˈhakɪŋ/
 noun
