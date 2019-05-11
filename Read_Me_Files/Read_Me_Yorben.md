@@ -108,3 +108,50 @@ But also in life, films or data.
 * Het kan een airco worden 
 
 </details>
+
+---
+
+**Classes**
+
+<details> 
+ <summary> Keywords and findings </summary>
+
+* 
+
+</details>
+
+<details> 
+ <summary> Video and images </summary>
+
+* 
+
+</details>
+
+---
+
+
+</details>
+
+<details> 
+ <summary> Summary </summary>
+
+* 
+
+</details>
+
+---
+
+***Reflection***
+
+...
+
+---
+
+***What is the context in which you operated? What phygical systems did you investigate? What did you find? What is your hacking method? If your method is a tool set, how would you explain to someone else how to use it? In what way are these tools limited/biased?***
+
+...
+
+---
+
+<H2> Yorben den Hartog - 0956915 </h2>
+
