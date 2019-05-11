@@ -18,6 +18,7 @@ But also in life, films or data.
 
 <details> 
  <summary> Schaar </summary>
+ 
 * 2 Messen met zwaartekracht
 * Herkenbaar geluid
 * 2 objecten = 1 vast
@@ -45,6 +46,7 @@ But also in life, films or data.
 
 <details> 
  <summary> Geodriehoek </summary>
+
 * Gelegd over tekst en wordt een masker
 * Een niet definitieve cut up techniek
 * 2 objecten = 1 vast
@@ -62,24 +64,27 @@ But also in life, films or data.
 * Het past perfect
 * Sterk en robuust
 * Gebruikersvriendelijk en gemaakt om vast te houden
+
 </details>
 
 ---
 
 <details> 
  <summary> What is the meaning of choreography? </summary>
+ 
 * Inspected the reading possibilities in a flyer
-* Graphic design 
+* Graphic design
+
 </details>
 
 
 <details> 
  <summary> Inspecting flyer  </summary>
+
 * Inspected the reading possibilities in a flyer
 * Graphic design 
 * Cutting so you still can read it
- 
-<img> 
+
 </details>
 
 ---
@@ -87,6 +92,7 @@ But also in life, films or data.
 
 <details> 
  <summary> Inspecting a connector </summary>
+
 * Water heater
 * Vloeiende buis voor water
 * 1 Connector (digitaal)
@@ -100,4 +106,5 @@ But also in life, films or data.
 * Zwaar object
 * Kruik gebruikt worden // Alles wat opgewarmt moet worden
 * Het kan een airco worden 
+
 </details>
