@@ -72,8 +72,8 @@ But also in life, films or data.
 <details> 
  <summary> What is the meaning of choreography? </summary>
  
-* Inspected the reading possibilities in a flyer
-* Graphic design
+* It strives to testify to the plasticity and wealth of our ability to re-conceive and detach ourselves from positions of certainty.
+* Planning over a class of ideas,
 
 </details>
 
@@ -132,9 +132,15 @@ But also in life, films or data.
 </details>
 
 <details> 
- <summary> Summary </summary>
+ <summary> Summary manifesto </summary>
 
-* 
+Whatever code we hack, be it programming language, poetic language, math or music, curves or colourings, we create the possibility of new things entering the world. Not always great things, or even good things, but new things.
+
+The virtual is the true domain of the hacker. It is from the virtual that the hacker produces ever-new expressions of the actual.
+
+To the hacker there is always a surplus of possibility expressed in what is actual, the surplus of the virtual. This is the inexhaustible domain of what is real without being actual, what is not but which may be.
+
+New hacks supersede old hacks, and devalues them as property
 
 </details>
 
@@ -143,7 +149,7 @@ But also in life, films or data.
 
 We had a few discussions on what to "Hack" my first thoughts were to hack digitally, a system or a newspaper. Since we are in a big group with a lot of voices we most of the time discussed what hacking is and what to hack. This got us into new findings of hacking. My digital vision of hacking dissapeared within these discussions, which was not a problem. 
 We talked about problems in our personal life and got to the subject of movement. We wanted to start by hacking movement, like a shoe which generates energy. In the classes we shifted to new ideas like the chainreaction of objects which simplifies life. Although this was a fun day and a nice "hack" it was not the end result we were looking for. We came back to the movement hack and were still interested in generating energy. We had some discussions and a lot of ideas and hacks, but our final result came from our lack of motivation to go to the gym. 
-We created the Nuon Power Gym, where by generating energy by going to the fitness. You help the power company Nuon by generating energy for them, in return you get free fitness and so called: 'Energy Points' which you can get discounts on your energy bill if you get your power from Nuon.
+We created the Nuon Power Gym, where by generating energy by going to the fitness. You help the power company Nuon by generating energy for them, in return you get free fitness and so called: 'Energy Points' which you can get discounts on your energy bill if you get your power from Nuon. To present our hack we created a commercial.
 
 ***final result:***
 
@@ -152,7 +158,7 @@ We created the Nuon Power Gym, where by generating energy by going to the fitnes
 
 ***Reflection***
 
-...
+For me the practice was a lot of fun, I met some really nice people from different studies! I was hoping that it would be a bit mor digital, which in the end turned out fine. I have a  different view on hacking in a broad sense. 
 
 ---
 
