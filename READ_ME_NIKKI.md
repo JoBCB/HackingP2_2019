@@ -141,6 +141,9 @@ Changing the visibility within this system, by showing travellers live footage, 
 
 __________________________________________________
 
+ https://github.com/0944380/hdlp/blob/master/HACKING_POSTER_A.pdf
+ 
+ __________________________________________________
 The panopticon gaze is the idea of a silent, invisible observer that subconsciously controls all aspects of life. In today’s society the government executes this role well by using digital surveillance in almost any way possible. The panoptic system determines the relationship between government and citizen. We, the citizens, have become the prisoners, and the government has become our watchman.
 
 The panoptic system is specifically being used in public transport. Whenever you enter a tram or a metro, you’re being filmed, recognized and tracked by cameras. This footage is being saved into a database and can impact the future. For example, if you have shown bad behaviour in the past, you may no longer be allowed in public transport. Most people are aware of this system, but since they are not directly exposed to it, they don’t seem to care and take it for granted.
@@ -148,3 +151,6 @@ The panoptic system is specifically being used in public transport. Whenever you
 This invisible eye impacts human behaviour. It results in people acting up to suit moral principles. 
 
 With the installation Public Gaze, we intervened in this system by adding an element: the confrontation. What happens when you can see that you’re being filmed and tracked live time? With Public Gaze we give back the choice to the people to decide for themselves whether to accept being filmed, or to leave.
+
+
+
