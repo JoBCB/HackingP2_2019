@@ -147,10 +147,6 @@ New hacks supersede old hacks, and devalues them as property
 ---
 <h1> Group work </h2>
 
-We had a few discussions on what to "Hack" my first thoughts were to hack digitally, a system or a newspaper. Since we are in a big group with a lot of voices we most of the time discussed what hacking is and what to hack. This got us into new findings of hacking. My digital vision of hacking dissapeared within these discussions, which was not a problem. 
-We talked about problems in our personal life and got to the subject of movement. We wanted to start by hacking movement, like a shoe which generates energy. In the classes we shifted to new ideas like the chainreaction of objects which simplifies life. Although this was a fun day and a nice "hack" it was not the end result we were looking for. We came back to the movement hack and were still interested in generating energy. We had some discussions and a lot of ideas and hacks, but our final result came from our lack of motivation to go to the gym. 
-We created the Nuon Power Gym, where by generating energy by going to the fitness. You help the power company Nuon by generating energy for them, in return you get free fitness and so called: 'Energy Points' which you can get discounts on your energy bill if you get your power from Nuon. To present our hack we created a commercial.
-
 ***final result:***
 
 
