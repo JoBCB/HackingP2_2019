@@ -3,9 +3,13 @@
 **DICTIONARY**
 
 > hacking
+
 > /ˈhakɪŋ/
+
 > noun
+
 > the gaining of unauthorized access to data in a system or computer.
+
 > "outlawing hacking has not stopped it"
 
 - The hacker culture is a subculture of individuals who enjoy the intellectual challenge of creatively overcoming limitations of software systems to achieve novel and clever outcomes.
