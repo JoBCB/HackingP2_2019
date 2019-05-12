@@ -90,9 +90,13 @@ Build or form again after it has been damaged or destroyed
 Analyzing (a tool) by deconstructing and reconstructing, to understand the anatomy. 
 
 **1. To see:** perceiving the world 
+
 **2. To look:** noticing, direct gaze toward someone or something or in specified direction 
+
 **3. To watch:** organising sight, look or observe attentively 
+
 **4. To observe:** sight becomes intelligence
+
 **5. To view:** inspecting and register as being significant 
 
 **Adding**
