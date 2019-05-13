@@ -59,7 +59,9 @@ We then drank a smoothie.
 24.4
 
 Varia - We had a presentation by Florian Cramer about the history of hacking. The screen was not hacked and so we could not see anything that was shown. Too bad because the subject was engaging.
-A few things sparked my interests, such as the captain crunch hack I never heared of. An actual hack! and no fruits involved. He also mentioned lock hacking/picking which I immediately connected with lock picking in skyrim.
+A few things sparked my interests, such as the captain crunch hack I never heared of. An actual hack! and no fruits involved.
+The idea of people making free phone calls using a whistle from the cereal box, that's some 'fuck the system' thing right there. Very Robin Hood-y. In my simple straightforward way of thinking, that's the definition of hacking.
+He also mentioned lock hacking/picking which reminded me of the <a href="https://i.ytimg.com/vi/R5fZobDqQbU/maxresdefault.jpg">lock picking in skyrim.</a>
 Then soups were made. I brought salt but had to go home. Heard the soups were a great success and very relevant to the subject.
 
 6666666666666666666666666666666666666666666666666666666666666666666666666666666666
@@ -69,7 +71,7 @@ Our group Project
 We decided to hack Instegram.
 Inspect how their censorship system work, In connection with sexuality or more specifically - the female nipple.
 A group member shared she had an image blocked by the platform. Surpsrisingly (or not?) the image didn't seem sexual, the person was fully clothed and no body parts were visible though their clothes.
-we opened an <a herf="https://www.instagram.com/kcahefil/">instegram account</a> and decided to gather as much photos as we can, so we could upload them through the week.
+we opened an <a href="https://www.instagram.com/kcahefil/">instegram account</a> and decided to gather as much photos as we can, so we could upload them through the week.
 
 My images
 
