@@ -31,7 +31,7 @@ Shailoh by creating awareness; using it to make a statement, Joana using it in h
 “Illegal/Legal” 
 “Combining with choreography”
 
-<i>= In groups reading manifesto’s</i> 
+= In groups reading manifesto’s 
 Reading A Hacker manifesto [version 4.0] 
 ^McKenzie Wark
 
@@ -49,7 +49,7 @@ This gives the hacker class an interest in its free availability more than in an
 
  <b>[Conclusion of the first lesson</b> 
 
-<b><i>What is hacking for me?</i><b/>
+<b><i>What is hacking for me?</i></b>
  
 = Hacking is transforming a system. It can be on large scale, but also on small scale. 
 It can be something worldwide and far away, but also something personal like your daily life. 
