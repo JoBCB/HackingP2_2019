@@ -84,6 +84,13 @@ As of now, none of the images was reported or banned by Instegram!
 
 77777777777777777777777777777777777777777777777777777777777777777777777777777777777777
 
+More hacking keywords
+
+unsensor / open / analyse / code / matrix / computers / system / inspect / insides / body / modular / technology / sneak in / secret / change / bots / guards / <a herf="https://i.pinimg.com/originals/36/87/23/368723926cead99d3ca0b491c2d6a7c3.jpg">This guy</a>.
+
+
+88888888888888888888888888888888888888888888888888888888888888888888888888888888888888
+
 
 To conclude my experience in this practice, my far most expectations were to learn actual coding. For me hacking is this action they show you in the movies, something that has to do with programs/systems/computers/codes/matrix-looking-kinda-stuff.
 I knew this would probably not be the case as I did read the practice description before registering it, where it was mentioned that hacking was "more than that".
