@@ -1,6 +1,6 @@
 <i><b>HACKING P2 ____________________ BY LOUISE FAFIÉ</b></i>
 
-
+---
 
 
 
@@ -38,7 +38,7 @@ we create the possibility of new things entering the world.”
 
 “there are hackers hacking the new out of the old.”
 
-“We do not own what we produce - it owns us.”
+<span style=”background-color: yellow;”>“We do not own what we produce - it owns us.”</span>
 “Under the sanction of law”
 “The hack as new information is produced out of already existing information. 
 This gives the hacker class an interest in its free availability more than in an exclusive right.”
