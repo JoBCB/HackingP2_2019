@@ -31,10 +31,11 @@
 * je groeit er mee op
 
 </details>
+---
 
- 
+<b> Lessons </b>
 <details>  <summary>
- Lesson Choreography
+ Choreography
   </summary> 
  * A concept that is difficult to summarize, you cannot control it.
 Constant struggle with past present and future.
