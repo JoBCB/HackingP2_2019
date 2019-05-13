@@ -72,4 +72,4 @@ liquid type of the magnet is exist.
 
 
 
-* 
+* Screen Shot 2019-05-13 at 3.12.00 PM
