@@ -1,4 +1,4 @@
-<details> <h1>Sam Oazzouz: Eyes (Observe) - Earbuds (music) </h1></details>
+<h1>Sam Oazzouz: Eyes (Observe) - Earbuds (music) </h1>
 
 <details> 
 
