@@ -23,8 +23,20 @@ ZIELINSKI: ART AND APPARATUS
 Galloway: Interface Effect
 Media vs Interface / Marshall McLuhan vs A. Gallowa
 
-### Summary Hacking lecture by Florian Cramer
+### Inspect & intervene within a system
+VOYEURISM – general curiosity 
 
+Websites are usually designed to lead the user to do something. But what are these archive-based websites flooded with webcam-streams asking me to do? In terms of conventional websites, these websites seem to function more as a tool than as a purposeful service.  
+
+Let’s say I want to go surfing today but I live a while away from sea, there’s tons of webcams that allow me to check what temper the sea has to offer. Another example being that if I have to be somewhere by car and I need to avoid traffic jams, I can check if the roads are clear. But what if the only thing I engage with on these websites, is observing people play midget-golf or getting a suntan? Would it then still offer a service? Or rather an amusement? And would the people involved consent to my enjoyment? 
+
+This brings me to my point of voyeurism, which only becomes an applicable term from the moment I start enjoying the process of observing people. I believe the threshold between voyeurism and just observing is very small. Which is why I want to draw attention to this relatively young issue. In principle people are always permitting to being watched because it regards their safety. But if they are observed by a private, are they then instantaneously also giving their consent to such a practice? If this live footage were to be recorded or used for whatever purpose, on a legal basis this is considered a breach of privacy.  
+
+I believe this rigorous problem will live on with us for a long while since it can never truly be solved. We can only try to move around the many points of conflict, to reduce other issues. Maybe we should hand the power to the people, so they at least are left with the possibility to react. But maybe an AI controlling the network and life streams, could bridge the gap in between privacy and surveillance. But that would of course only work if nobody else would able to access the footage.  
+
+We truly never know when we are being watched. We might be aware that we are being watched, as we see another of those grey rectangle boxes on a pole. But we will never directly be confronted with the shot footage.  
+
+### Summary Hacking lecture by Florian Cramer
 
 ### Summary excersises Varia
 
