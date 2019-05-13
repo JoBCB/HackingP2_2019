@@ -71,5 +71,22 @@ Magnet of family would be the electromagnet, Tesla coil, an aurora and Neodymium
 liquid type of the magnet is exist.
 
 
+* Summary on Florian Cramer
 
-* Screen Shot 2019-05-13 at 3.12.00 PM
+He started with the explaination of origins of hacking and showed examples of various work of hacks. He explained the definition of how he was culturally developed and perceived hacking and the attitudes that a hackers can have.
+
+Yes man
+
+* Summary on Florian Varia
+
+We were asked to bring the ingredients of the food, and I had brought the tomatoes. Then, each of the students put all ingredients in one pot and made a soup. it was included flour and all kinds o vegetables. Outcome was smelly.
+Secondly, we made soup that was made along the recipe. However, we made sure of what was the orgin in the ingredients.
+Basically, we hacked the recipe itself.
+
+
+* Conclusion 
+
+
+
+
+
