@@ -1,4 +1,6 @@
-<h1>Sam Oazzouz: Eyes (Observe) - Earbuds (music) </h1>
+<h1>Sam Oazzouz Hacking practice</h1> 
+
+Eyes (Observe) - Earbuds (music) 
 
 <details> 
 
