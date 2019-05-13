@@ -92,3 +92,4 @@ We thought about the idea of energy using and found an example of collecting and
 ex) Movement > generate energy > making sound or light 
 So we came to the conclusion that exercise to generate energy in the gym to gain money from it through the company.
 
+
