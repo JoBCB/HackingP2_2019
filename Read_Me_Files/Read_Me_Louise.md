@@ -1,9 +1,9 @@
 <i><b>HACKING P2 ____________________ BY LOUISE FAFIÉ</b></i>
-
-
-
-
-
+*
+*
+*
+*
+*
 
 
 
@@ -19,8 +19,8 @@ Introduction of teachers.
 
 Teachers; 
 
-•	Shailoh Phillips <u>studiobabel.nl</u> 
-•	Joana Chicau <u>joanachicau.com</u>
+•	Shailoh Phillips http://studiobabel.nl 
+•	Joana Chicau http://joanachicau.com
 
 Both telling about using hacking in their own practice/work (examples): 
 Shailoh by creating awareness; using it to make a statement, Joana using it in her choreographies 
