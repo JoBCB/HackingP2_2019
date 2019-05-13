@@ -31,6 +31,7 @@
 * je groeit er mee op
 
 </details>
+
 ---
 
 <b> Lessons </b>
