@@ -34,8 +34,8 @@
 
  <details> 
 
- <summary> <b>Lesson Choreography</b></summary>
- 
+ <b>Lesson Choreography</b>
+ <summary> 
  * A concept that is difficult to summarize, you cannot control it.
 Constant struggle with past present and future.
 
@@ -48,6 +48,6 @@ Constant struggle with past present and future.
 
 * Choreography is the term that presides over a class of ideas: an idea is perhaps in this case a thought or suggestion as to a possible course of action. 
 
- </details>
+ </summary></details>
  
 
