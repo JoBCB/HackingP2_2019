@@ -9,8 +9,7 @@ info
 
 <details> 
 <summary><b>[First lesson]</b></summary>		
- info
- </details>
+ 
 = introduction and startup of practice 
 
 Introduction of what to expect of the hacking practice.  
@@ -58,7 +57,7 @@ Using a tool differently than you used to is a hack.
 
 Hacking is also outside the virtual world.
 Hacking is very brought. 
-
+ </details>
 
 
 
