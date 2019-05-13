@@ -19,19 +19,19 @@ Introduction of teachers.
 
 Teachers; 
 
-•	Shailoh Phillips studiobabel.nl 
-•	Joana Chicau joanachicau.com
+•	Shailoh Phillips <u>studiobabel.nl</u> 
+•	Joana Chicau <u>joanachicau.com</u>
 
 Both telling about using hacking in their own practice/work (examples): 
 Shailoh by creating awareness; using it to make a statement, Joana using it in her choreographies 
 
-=Side notes; 
+<i>= Side notes;</i> 
 “Using hacking in a lot of ways” 
 “Looking for the boundaries”
 “Illegal/Legal” 
 “Combining with choreography”
 
-= In groups reading manifesto’s 
+<i>= In groups reading manifesto’s</i> 
 Reading A Hacker manifesto [version 4.0] 
 ^McKenzie Wark
 
@@ -47,9 +47,9 @@ we create the possibility of new things entering the world.”
 “The hack as new information is produced out of already existing information. 
 This gives the hacker class an interest in its free availability more than in an exclusive right.”
 
- [Conclusion of the first lesson] 
+ <b>[Conclusion of the first lesson</b> 
 
-What is hacking for me?
+<b><i>What is hacking for me?</i><b/>
  
 = Hacking is transforming a system. It can be on large scale, but also on small scale. 
 It can be something worldwide and far away, but also something personal like your daily life. 
@@ -97,7 +97,7 @@ It is round to grab it nicely
 _James Gibson, philosopher
 _ Don Norman; The design of everyday things
 
-= Side notes; 
+<i>= Side notes;</i> 
 
 An affordance points both ways, to the environment and the observer.
 Interfaces 
@@ -153,7 +153,7 @@ How to use it?
 How does it look like?
 
 
-= Side notes;
+<i>= Side notes;</i>
 Everything is connected... but how?
 Matters/words 
 Inspection tool 
@@ -165,7 +165,7 @@ Overlapping parts, connect to each other
 
 How this lesson ends;
 
-See video’s 
+(Videos are show'n)
 
 We made a construction with allot of tools that Shailoh brought. 
 With my group building a system together
@@ -192,7 +192,7 @@ Created a new person together
 
 See photo
 
-= Side notes;
+<i>= Side notes;</i>
 It’s an attitude 
 It’s a way of seeing the world different 
 
@@ -218,7 +218,7 @@ Eddy Hoffmann
 The yes men 
 Home taping skills music
 
-Ubuweg.com
+<u>Ubuweg.com</u>
 
 Sexual hacking
 Vienna Nike Platz – Nike ground
@@ -230,12 +230,12 @@ He gave us inside in what hacking could be & what hacking is for him.
 He told us a website which can be very interesting for us, art students.  
 
 
-•	What is the context in which you operated?
+<i>•	What is the context in which you operated?
 _ What physical systems did you investigate?
 _ What did you find? 
 _ What is your hacking method?
 _ If your method is a tool set, how would you explain to someone else how to use it? 
-_ In what way are these tools limited/biased?
+_ In what way are these tools limited/biased?</i>
 
 For the final assignment we made a video. 
 Together with our group we had a lot of discussions about what we want to achieve within this autonomous hacking practice.
