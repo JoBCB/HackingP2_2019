@@ -52,11 +52,8 @@ Constant struggle with past present and future.
 
  </summary> </details>
  
- <details> Inspecting and hack a 'object'
+ <details> <summary> Inspecting and hack a 'object'</summary>
 We inspected a flyer with my group. We took 5 flyers and hacked each one of them. We hacked the letters in different ways. At one flyer we blanked some letters out with a stift. Another flyer we cut out half of the letter so even if the letters are missing a piece the reader can still read the letters but your way of reading changed </details>
-
-
-
 
 </details>
  
