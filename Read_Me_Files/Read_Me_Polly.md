@@ -25,7 +25,13 @@ surprise stab // tak tak tak // disposable parts // extended // sharp // japanes
 Able too:
 Cut, smear, devide, poke, measure, hurt, kill, slice, mark
 
+My item inspected
 <a href="https://static.wixstatic.com/media/6272f6_22a7e7ccbd8e4066b4103246af7ecde8~mv2_d_3120_4160_s_4_2.jpg">img</a>
+
+A classmate's item I inspected
+<a href="https://static.wixstatic.com/media/6272f6_b5e4ce841dd94bdabe73acce9af4c857~mv2_d_3120_4160_s_4_2.jpg">img</a>
+
+
 3333333333333333333333333333333333333333333333333333333333333333333333333333333
 
 17.4
