@@ -1,3 +1,6 @@
+* Glossary of the manifesto
+
+
 Hacking refers to non-malicious activities, usually involving unusual or improvised alterations to equipment or processes.
 
 Cracker generally refers to unauthorized intrusion into a computer or a network. The person engaged in hacking activities is known as a hacker. This hacker may alter system or security features to accomplish a goal that differs from the original purpose of the system.
@@ -38,3 +41,19 @@ There are many lacunae where desire confronts us with the brutality of fact, whe
 Poetry, sex, technology and pain are incandescent with this tension we have traced. But give up on the task of revision, release the reins and slacken that tension, and these filaments instantly dim.
 
 If nature is unjust, change nature!
+
+
+* inspection tool
+
+Magnet 
+
+- It has N / S dipole
+- Invisible power.
+- Metal or iron is pulled.
+- Current action and magnetism.
+- Able to rotate.
+- Even when divided, magnetism always occurs.
+- Unable to separate the poles of a magnet.
+- Fixing objects and objects
+The Earth is also a giant magnet.
+Create adhesion
