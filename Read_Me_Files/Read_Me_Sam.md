@@ -1,7 +1,6 @@
-## <pre>                         Hacking Practices Sam Oazzouyz</pre>
+## <pre>                         Hacking Practices Sam Oazzouz 2019</pre>
 
 
-Eyes (Observe) - Earbuds (music) 
 
 <details> 
 
