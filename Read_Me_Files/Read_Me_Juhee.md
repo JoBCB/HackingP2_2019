@@ -87,6 +87,8 @@ Basically, we hacked the recipe itself.
 * Conclusion 
 
 
-
-
+hacking is to change or intervene the components of the system and to operate in a new way. System can be life, law, computer program, machine, belief, role, and so on.
+We thought about the idea of energy using and found an example of collecting and rewriting energy using dance steps.
+ex) Movement > generate energy > making sound or light 
+So we came to the conclusion that exercise to generate energy in the gym to gain money from it through the company.
 
