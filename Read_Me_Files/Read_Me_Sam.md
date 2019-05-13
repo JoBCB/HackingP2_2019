@@ -10,6 +10,8 @@ Eyes (Observe) - Earbuds (music)
 - Disturbing the system.
 - Using a clothes peg to prevent a trouser leg from getting caught in a bicycle chain is also basically a hack.
 
-
-
 </details>
+
+<details>
+  <b>INSPECTION TOOLS</b>
+<summary> 
