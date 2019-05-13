@@ -1,10 +1,7 @@
-HACKING P2 BY LOUISE FAFIÉ 
+<i><b>HACKING P2 BY LOUISE FAFIÉ</b></i>
 
-<details> 
-<summary>
- </summary>
-info
-</details>
+
+
 
 
 <details> 
@@ -175,7 +172,7 @@ Video / photos
 
 
 <details>
- <summary><b>Fourthlesson</b></summary>
+ <summary><b>Fourth lesson</b></summary>
 =Lesson of Joseph 
 Bring a piece of fruit 
 Bring 11 A3 prints of your body 
@@ -202,7 +199,8 @@ How you see things without thinking;
 
 
 
-[Fifth lesson] 
+<details>
+ <summary><b>Fifth lesson</b></summary>
 = Lesson at Varia, workplace in the South of Rotterdam 
 
 _ Hacking lecture by Florian Cramer
@@ -245,3 +243,4 @@ We made a tell sell likely video to show the concept.
 
 
 
+</details>
