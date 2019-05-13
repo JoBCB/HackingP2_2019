@@ -62,7 +62,7 @@ Varia - We had a presentation by Florian Cramer about the history of hacking. Th
 A few things sparked my interests, such as the captain crunch hack I never heared of. An actual hack! and no fruits involved.
 The idea of people making free phone calls using a whistle from the cereal box, that's some 'fuck the system' thing right there. Very Robin Hood-y. In my simple straightforward way of thinking, that's the definition of hacking.
 He also mentioned lock hacking/picking which reminded me of the <a href="https://i.ytimg.com/vi/R5fZobDqQbU/maxresdefault.jpg">lock picking in skyrim.</a>
-Then soups were made. I brought salt but had to go home. Heard the soups were a great success and very relevant to the subject.
+Then soups were made. I brought salt but had to go home. Heard the soups were a great success.
 
 6666666666666666666666666666666666666666666666666666666666666666666666666666666666
 
