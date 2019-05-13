@@ -7,7 +7,7 @@ info
 
 
 
-[First lesson]									
+<b>[First lesson]</b>								
 = introduction and startup of practice 
 
 Introduction of what to expect of the hacking practice.  
