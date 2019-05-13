@@ -84,9 +84,11 @@ As of now, none of the images was reported or banned by Instegram!
 
 77777777777777777777777777777777777777777777777777777777777777777777777777777777777777
 
-To conclude my experience in this practice, my far most expectations were to learn actual coding. For me hacking is just this action they show you in the movies, something that has to do with programs/systems/computers/codes/matrix-looking-kinda-stuff.
+
+To conclude my experience in this practice, my far most expectations were to learn actual coding. For me hacking is this action they show you in the movies, something that has to do with programs/systems/computers/codes/matrix-looking-kinda-stuff.
 I knew this would probably not be the case as I did read the practice description before registering it, where it was mentioned that hacking was "more than that".
 I learned it was way more than that, where a huge part of it was looking and inspecting, poking inside stuff. Playing around with it, moving from side to side and upside down.
+
 
 
 
