@@ -86,7 +86,7 @@ As of now, none of the images was reported or banned by Instegram!
 
 More hacking keywords
 
-unsensor / open / analyse / code / matrix / computers / system / inspect / insides / body / modular / technology / sneak in / secret / change / bots / guards / <a herf="https://i.pinimg.com/originals/36/87/23/368723926cead99d3ca0b491c2d6a7c3.jpg">This guy</a>.
+unsensor / open / analyse / code / matrix / computers / system / inspect / insides / body / modular / technology / sneak in / secret / change / bots / guards / <a href="https://static.wixstatic.com/media/6272f6_9f440a476a7047f2956d823c9739b9c0~mv2.jpg">This guy</a>.
 
 
 88888888888888888888888888888888888888888888888888888888888888888888888888888888888888
