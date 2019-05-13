@@ -1,4 +1,4 @@
-<h1><i><b>HACKING P2 __________________________ BY LOUISE FAFIÉ</b></i></h1>
+<h1><i><b>HACKING P2 ________________ BY LOUISE FAFIÉ</b></i></h1>
 
 ---
 
