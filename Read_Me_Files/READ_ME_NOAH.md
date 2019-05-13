@@ -15,6 +15,12 @@
 * https://piratebay6.org/
 * https://www.digitalmanifesto.net/manifestos/8/
 * http://joanachicau.com/Hacking.html
+* https://www.webcamtaxi.com/en/ - International webcams 
+* https://webcam.nl/ - Webcams in Holland 
+* https://www.insecam.org/ - International security webcams 
+
+https://www.denederlandsegrondwet.nl/id/vkugbqvdtdwz/artikel_10_privacy 
+http://www.wetboek-online.nl/wet/Wet%20bescherming%20persoonsgegevens.html 
 
 
 ### Documentation from the classes
