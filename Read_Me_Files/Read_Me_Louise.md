@@ -239,9 +239,13 @@ We conclude that we were thinking way to difficult and went back to the core; ha
 However, we conclude that we wanted a big concept because we are with a large group. So, we came up with a concept. 
 Transforming ‘going to a gym’ in something nice. In something you want to do & you earns money for.
 We made a tell sell likely video to show the concept. 
-
-
-
-
-
 </details>
+
+
+
+
+<details>
+ <summary><b><i>CONCLUSION</i></b></summary>
+ 
+
+
