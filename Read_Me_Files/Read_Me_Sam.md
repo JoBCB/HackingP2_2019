@@ -34,6 +34,18 @@
 
  <summary> <b>Lesson Choreography</b></summary>
  * 
+A concept that is difficult to summarize, you cannot control it.
+Constant struggle with past present and future.
+
+ * An object is not so possessed by its own name that one could not find another or better therefore. 
+           - Rene Magritte  
+
+* To reduce choreography to a single definition is not to understand the most crucial of its mechanisms: to resist and reform previous conceptions of its definition.  
+
+* There is no choreography, at least not as to be understood as a particular instance representing a universal or standard for the term.
+
+* Choreography is the term that presides over a class of ideas: an idea is perhaps in this case a thought or suggestion as to a possible course of action. 
+
  
   <details> 
 
