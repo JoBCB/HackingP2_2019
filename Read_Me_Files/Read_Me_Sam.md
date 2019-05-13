@@ -57,6 +57,12 @@ Constant struggle with past present and future.
   
 * We inspected a flyer with my group. We took 5 flyers and hacked each one of them. We hacked the letters in different ways. At one flyer we blanked some letters out with a stift. Another flyer we cut out half of the letter so even if the letters are missing a piece the reader can still read the letters but your way of reading changed
 
+- https://imgur.com/iH7ySqU
+- https://imgur.com/0jhdz38
+- https://imgur.com/N8VTAzo
+- https://imgur.com/wKZsklE
+- https://imgur.com/UMip6r7
+
 * The second assignment started with a solo object inspection. I selected 2 items and inspected them. After seeing the items of my group mates, I decided that maybe we could bundle our objects and turn them into one big hack.With our objects together and the space around us we have caused 1 large chain reaction in which the objects were given a completely different meaning than what they were intended for. 1 of my 2 objects was a rope. At the start of my assignment I made the remark '' what am I supposed to do with this '', then we used the rope to cause many reactions in the classroom. By connecting everything together, we made sure that we could open the tap remotely and draw a glass of water to ourselves. 
 
 - https://www.youtube.com/watch?v=K2FsH6KbKxo&feature=youtu.be
