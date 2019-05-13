@@ -218,7 +218,7 @@ Eddy Hoffmann
 The yes men 
 Home taping skills music
 
-<u>Ubuweg.com</u>
+http://www.ubu.com/resources/ 
 
 Sexual hacking
 Vienna Nike Platz – Nike ground
