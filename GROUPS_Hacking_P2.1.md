@@ -13,6 +13,6 @@ Nikki, Loïs, Eline, Charlotte, Kamiel, Michael, Noah & Derrick
 
 
 **group 04**
-
+Alexandra, Pim, Sanne, Mireille, Istvan, Mikus, Julia, Polly
 
 **group 05**
