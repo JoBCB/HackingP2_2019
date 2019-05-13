@@ -160,8 +160,21 @@ Focusing on connection gives you inside
 Overlapping parts, connect to each other
 
 How this lesson ends;
+VIDEOS:
 
-(Videos are show'n)
+https://youtu.be/K2FsH6KbKxo
+
+https://youtu.be/YHzSt9Aughw
+
+https://youtu.be/kqYyVLVOHVw
+
+https://youtu.be/MGCqghYNRUs
+
+https://youtu.be/ZRoC1e8u2iE
+
+https://youtu.be/fbWg_jaC7b8
+
+https://youtu.be/xuj0UiiZj58
 
 We made a construction with allot of tools that Shailoh brought. 
 With my group building a system together
@@ -186,7 +199,7 @@ Making a smoothie with everyone’s brought fruit
 Making a collage of different body’s everyone brought 
 Created a new person together 
 
-See photo
+See photo --> 
 
 <i>= Side notes;</i>
 It’s an attitude 
