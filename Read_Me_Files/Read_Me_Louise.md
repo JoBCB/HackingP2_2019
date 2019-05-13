@@ -8,7 +8,7 @@ info
 
 
 <details> 
-<summary><b>[First lesson]</b></summary>		
+<summary><b>First lesson</b></summary>		
  
 = introduction and startup of practice 
 
@@ -62,7 +62,7 @@ Hacking is very brought.
 
 
 <details>
-<summary>[Second lesson]</summary>
+ <summary><b>Second lesson</b></summary>
 = Bring an inspection tool 
 
 My inspection tool is a spray can. Why a spray can? 
@@ -121,7 +121,8 @@ Interesting conversations and discussions
 
 
 
-[Third lesson]
+<details>
+ <summary><b>Third lesson</b></summary>
 
 _Lesson of Joana 
 -	Mapping
@@ -169,11 +170,12 @@ With my group building a system together
 A lot of fun
 Putting and using al object tools together 
 Video / photos 
+</details>
 
 
 
-
-[Fourth lesson]
+<details>
+ <summary><b>Fourthlesson</b></summary>
 =Lesson of Joseph 
 Bring a piece of fruit 
 Bring 11 A3 prints of your body 
@@ -195,7 +197,7 @@ It’s a way of seeing the world different
 How you see things without thinking; 
 
 {YOU GOT A DIG BICK}
-
+</details>
 
 
 
