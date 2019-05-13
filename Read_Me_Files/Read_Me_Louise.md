@@ -61,8 +61,8 @@ Hacking is very brought.
 
 
 
-
-[Second lesson] 
+<details>
+<summary>[Second lesson]</summary>
 = Bring an inspection tool 
 
 My inspection tool is a spray can. Why a spray can? 
@@ -116,7 +116,7 @@ Agreed points: Daily life and Analogue
 
 [Other meeting with group]
 Interesting conversations and discussions 
-
+</details>
 
 
 
