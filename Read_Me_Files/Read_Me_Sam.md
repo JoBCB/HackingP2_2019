@@ -59,6 +59,14 @@ Constant struggle with past present and future.
 
 * The second assignment started with a solo object inspection. I selected 2 items and inspected them. After seeing the items of my group mates, I decided that maybe we could bundle our objects and turn them into one big hack.With our objects together and the space around us we have caused 1 large chain reaction in which the objects were given a completely different meaning than what they were intended for. 1 of my 2 objects was a rope. At the start of my assignment I made the remark '' what am I supposed to do with this '', then we used the rope to cause many reactions in the classroom. By connecting everything together, we made sure that we could open the tap remotely and draw a glass of water to ourselves. </details>
 
+* https://www.youtube.com/watch?v=K2FsH6KbKxo&feature=youtu.be
+* https://youtu.be/kqYyVLVOHVw
+* https://www.youtube.com/watch?v=MGCqghYNRUs&feature=youtu.be
+
+---
+
+
+
 
  
 
