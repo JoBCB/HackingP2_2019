@@ -245,7 +245,9 @@ We made a tell sell likely video to show the concept.
 
 
 <details>
- <summary><b><i>CONCLUSION</i></b></summary>
- 
+ <summary><b><i>Conclusion</i></b></summary>
+ _I learned that hacking can be anything! You can find hacks everywhere around you.
+The part of anatomy really attracts me. It is something I would like to go further with. 
+</details>
 
 
