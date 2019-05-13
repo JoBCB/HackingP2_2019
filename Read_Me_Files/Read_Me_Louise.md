@@ -1,13 +1,16 @@
 HACKING P2 BY LOUISE FAFIÉ 
 
 <details> 
-<summary>HACKING P2</summary>
+<summary>
+ </summary>
 info
 </details>
 
 
-
-<b>[First lesson]</b>								
+<details> 
+<summary><b>[First lesson]</b></summary>		
+ info
+ </details>
 = introduction and startup of practice 
 
 Introduction of what to expect of the hacking practice.  
