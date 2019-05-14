@@ -44,6 +44,20 @@ We truly never know when we are being watched. We might be aware that we are bei
 
 ### Summary Hacking lecture by Florian Cramer
 
+- flute in conflakespackage: the tone on the flute led to free calling
+- yesman
+- programmed system: stretch their abilities (voting got manipultated, back to paper)
+- whitehead/blackhead
+- the piratebay
+- dadaism
+- artist (a lot is reproduced, or based on something existing)
+- cornelia sollfrank (lost fertile computer)
+- nike ground 2003
+- sexual hacking
+- performance: man played a blind leading dog to get a free ride onpublic transport
+- bonuskaart
+- readymade
+
 ### Excersises Varia
 It was an interesting aproach to what hacking can be: a recipe (for disaster).
 The excercises were introduced alongside an old method of cooking intended for variety and efficiency. Around the middle ages there have been a lot of famines. To which poor people remaining in groups had come up with a way to have a feast. Everybody would toss any foods they had left into a huge pot. This way everybody could enjoy all of the ingredients in one dish. There would more than enough food for everybody to enjoy. Not to speak of variation in their diets.
