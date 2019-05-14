@@ -53,8 +53,11 @@ There are three types of hackers: black hat hacker (= someone who hacks to steal
 
 After a couple of classes I found out that hacking is more then I thought it was. When you hack you hack a system, not necessarily a computer system or whatever. 
 
-	For my own project I hacked a light switch. I made light switches from ceramics. But they look exactly like real light switches. When I made them I didn’t see yet that that also was a way of hacking something. I used the idea of a light switch to play with people’s perception. Because when you click on the light switch, the light switch will break (so light doesn’t turn on) I invented my ceramic light switch to literally break through the ruth of everyday life. 
-  
+For my own project I hacked a light switch. I made light switches from ceramics. But they look exactly like real light switches. When I made them I didn’t see yet that that also was a way of hacking something. I used the idea of a light switch to play with people’s perception. Because when you click on the light switch, the light switch will break (so light doesn’t turn on) I invented my ceramic light switch to literally break through the ruth of everyday life. 
+
+THE CLASS WITH SHEILOH WHERE SHE BROUGHT A LOT OF TOOLS (I missed the dance part with Joana so I can't write about that:()
+The tool I chose was a knijpkat (a flashlight that turns on when you squeeze it) I inspected it by looking at it in different ways, I also drew it:   
+
   
 
 
