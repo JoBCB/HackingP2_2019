@@ -49,6 +49,15 @@ its funny that you can only see the red krinkly line on screens. when you print 
 maybe i can do research on that?
 
 
+There are three types of hackers: black hat hacker (= someone who hacks to steal money/data/to knock/destroy a system down. They work outside the law) A white hat hacker hacker is someone who hacks for a company/organisation for defensive purposes. A grey hat hacker is someone who can sometimes violate laws but doesn’t this really to harm. Florian Cremer explained this through different examples.  
+
+After a couple of classes I found out that hacking is more then I thought it was. When you hack you hack a system, not necessarily a computer system or whatever. 
+
+	For my own project I hacked a light switch. I made light switches from ceramics. But they look exactly like real light switches. When I made them I didn’t see yet that that also was a way of hacking something. I used the idea of a light switch to play with people’s perception. Because when you click on the light switch, the light switch will break (so light doesn’t turn on) I invented my ceramic light switch to literally break through the ruth of everyday life. 
+  
+  
+
+
 
 
 
