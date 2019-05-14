@@ -2,7 +2,7 @@
 
 ---
 
-<details>  <summary> <B> HACKING // </B> </summary>is finding applications that are not intended by the creator of the resource, especially with regard to computers. Complexity does not play a role here, on the contrary, easy and fast alternative solutions are preferred.
+<details>  <summary> <B> HACKING // </B> </summary>Is finding applications that are not intended by the creator of the resource, especially with regard to computers. Complexity does not play a role here, on the contrary, easy and fast alternative solutions are preferred.
 </details>
 
 ---
