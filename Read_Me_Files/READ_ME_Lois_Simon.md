@@ -11,7 +11,7 @@
 <br>
 <br>
 
-<b>THE CRITICAL ENGINEERING MANIFESTO<b>
+**THE CRITICAL ENGINEERING MANIFESTO**
 <br>Summary;
 <br>
 
@@ -38,9 +38,9 @@ Keywords; transformation / dependency / ‘machine’ / strategy / vulnerability
 <br>
 
 
-<b>DEFINITION OF ‘HACKING’ <b>
+**DEFINITION OF ‘HACKING'**
 
-> HACKING;
+HACKING;
 
 
 •	Modern science
@@ -65,7 +65,7 @@ benefit of our civilisation.
 <br>
 <br>
 
-<b>EXAMPLES OF HACKING (PHYSICAL INSTEAD OF DIGITAL) <b>
+**EXAMPLES OF HACKING (PHYSICAL INSTEAD OF DIGITAL)**
 	
 •	Demonstrations 
 
@@ -84,8 +84,9 @@ benefit of our civilisation.
 
 <br>
 <br>
-<b>INTERFACE <b> 
-	
+
+**INTERFACE**
+<br>	
 <br>
 	
 •	In-between / two thing / boundaries between two things.
@@ -104,65 +105,72 @@ Example; the computer as an interface
 Media vs Interface - Marshall McLuhan 
 
 Interface has many layers (like an union) 
+<br>
 
 > Autonomy is a branch of natural science which deals with the structural organisation of living things.
-
+<br>
 Living things; not only bodies but also systems (digital networks).
 
 
+<br>
+<br>
+**INSPECTION TOOLS**
 
-INSPECTION TOOLS
-
+<br>
 Life art cards. 52 cards (I pick one once a week) Haiku drawings and each cards has a theme with 3 questions. It’s a 
 probe that investigates/ reveals / uncovers 'hidden' qualities and questions related a way of life and self reflection. 
+<br>
 
 
-TOOL 1) LIFE ART CARDS;
-https://imgur.com/3upm5d5
+**TOOL 1) LIFE ART CARDS**
+[Life Art Card](https://imgur.com/3upm5d5)
+<br>
+<br>
 
-FLEXIBILITY; The cards are bendable; One card is very flexible; Multiple cards not so much; 
+•	FLEXIBILITY; The cards are bendable; One card is very flexible; Multiple cards not so much; 
 Horizontal bending is more flexible than verticale.
-
-SIZE; Size that fits in my hands; Like a smartphone.
-
-CONTENT; The content is placed in one direction; All the cards have two sides; The back is always the same print 
+<br>
+•	SIZE; Size that fits in my hands; Like a smartphone.
+<br>
+•	CONTENT; The content is placed in one direction; All the cards have two sides; The back is always the same print 
 so the participant doesn’t know what the content on the other side is; The other side has an unique content that 
 is placed upwards and isn’t readable upside down; You can pick a card while seeing which one it is or turned to 
 the back without knowing which one it is; The cards are written in Dutch; The content can be relevant for people 
 from different backgrounds/generations/interests. 
-
-TACTILITY; Soft paper on the flat sides; The corners are partially rounded; The whole stack together on the sides 
+<br>
+•	TACTILITY; Soft paper on the flat sides; The corners are partially rounded; The whole stack together on the sides 
 feels a but rough but still like some sort of soft sand texture.
-
-SOUND; Soft swiping sound; Quietly in the beginning and a bit sharper at the end; Only when the cards slide 
+<br>
+•	SOUND; Soft swiping sound; Quietly in the beginning and a bit sharper at the end; Only when the cards slide 
 on to each other. 
-
-COMPOSITION; The 52 cards can be positioned in multiple ways/variations; By moving/shuffling them the order changes; 
+<br>
+•	COMPOSITION; The 52 cards can be positioned in multiple ways/variations; By moving/shuffling them the order changes; 
 The possibilities remain the same but the possibility for one specific card changes because the position changed.
-
-DURABILITY; The set contains 52 cards; I pick one once a week, which means one card for every week, a whole year; 
+<br>
+•	DURABILITY; The set contains 52 cards; I pick one once a week, which means one card for every week, a whole year; 
 The cards can be used the year after that because the answers might not be relevant or correct a year later; 
 Pick a card, read the content and look at the visuals, but answering the questions on a later moment; Writing your 
 answers down or not; Use the answers as information about yourself or others; The object has a continuous function; 
 You might get to know new things about yourself or others and apply that information in future scenario’s; 
 You may choose to pick one card or more, but there aren’t infinitely cards to pick from so when you choose to pick more, 
 there are less cards left to answer.
-
-SETTING; The cards can be used in different social compositions; Alone; Within a group; The context of using the 
+<br>
+•	SETTING; The cards can be used in different social compositions; Alone; Within a group; The context of using the 
 cards can be different; Therapeutic session; Hanging out with friends or family; Getting to know new people; 
 Discussing them with others;
-
-GOAL; There isn’t a good/bad answer or way of using this object; The answers are subjective and personal and can 
+<br>
+•	GOAL; There isn’t a good/bad answer or way of using this object; The answers are subjective and personal and can 
 be interpreted differently by anyone.
-
-VULNERABILITY; Made out of paper; Liquids while ruin the object; One card alone is very light and can be blown away 
+<br>
+•	VULNERABILITY; Made out of paper; Liquids while ruin the object; One card alone is very light and can be blown away 
 with wind; You can rip the cards because it’s made out of paper; You can fold them but then they will have 
 a folding mark; The physical adjustments to this object can’t be reversed. 
-
-RULES; The rules are a bit abstract; You can pick as many cards as you want and use the cards alone or with other people; 
+<br>
+•	RULES; The rules are a bit abstract; You can pick as many cards as you want and use the cards alone or with other people; 
 You have the freedom to share the answers with others or not; You can re-use the cards.
 
-
+<br>
+<br>
 
 TOOL 2) SD MINI; 
 
