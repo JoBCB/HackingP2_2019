@@ -137,7 +137,7 @@ What concerns me is what this does to human behaviour. What happens when you kno
 Panopticon leads citizens in acts of policing themselves for fear of punishment. The invisible eye of the government brings fear of privacy to their citizens, which will impact their behaviour by acting up to suit the government’s principles and to prevent punishment for doing wrong.  
 
 
-Changing the visibility within this system, by showing travellers live footage, makes the travellers aware of being watched. What happens when you know you’re being watched at all times? What is the impact on social behaviour, after fearing being watched, changing attitude to the way we think we should act and overthinking if we do act right? How will people adjust to the idea of knowing they are being watched at all times? 
+Changing the visibility within this system makes the travellers aware of being watched. What happens when you see you’re being watched at all times? What is the impact on social behaviour? What happens to changing attitude to the way we think we should act and overthinking if we do act right? How will people adjust to the seeing they are being seen and detected at all times? 
 
 __________________________________________________
 
@@ -145,6 +145,7 @@ Concept, code & visuals: https://github.com/0944380/public_gaze
 
 __________________________________________________
 
+My role within the group: concept development, concept realisation through programming, co-writing the final exhibition text. 
 
 
 
