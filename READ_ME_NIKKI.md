@@ -141,7 +141,7 @@ Changing the visibility within this system, by showing travellers live footage, 
 
 __________________________________________________
 
-Concept, code & visuals:  https://github.com/0944380/hdlp
+Concept, code & visuals: https://github.com/0944380/public_gaze
 
 __________________________________________________
 
