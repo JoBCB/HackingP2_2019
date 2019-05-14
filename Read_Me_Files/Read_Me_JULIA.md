@@ -55,8 +55,57 @@ After a couple of classes I found out that hacking is more then I thought it was
 
 For my own project I hacked a light switch. I made light switches from ceramics. But they look exactly like real light switches. When I made them I didn’t see yet that that also was a way of hacking something. I used the idea of a light switch to play with people’s perception. Because when you click on the light switch, the light switch will break (so light doesn’t turn on) I invented my ceramic light switch to literally break through the ruth of everyday life. 
 
-THE CLASS WITH SHEILOH WHERE SHE BROUGHT A LOT OF TOOLS (I missed the dance part with Joana so I can't write about that:()
-The tool I chose was a knijpkat (a flashlight that turns on when you squeeze it) I inspected it by looking at it in different ways, I also drew it:   
+THE CLASS WITH JOSEPH
+We started the class with putting a piece of fruit that we had to bring on the table. After that Joseph explained about what hacking for him is. He had a little exercice where he asked a girl to open the window. When she opened the window she had to write down which steps she took to open the window. It turned out that there are a lot of steps involved to open the window. And that when you change one step, you already hacked the system of opening a window. 
+He also showed us humourous useless lifehacks. Here are some "hacks" that I found later:https://github.com/JuliaRomeyn/lifehacks
+
+After that we had to do a little hack ourselves. I worked together with Sanne. This is what we hacked: https://imgur.com/CxHI0Pq
+
+After that we had to hack our bodies. We had to bring 11 A3's with our body on it. I made a group with Charlotte Pim and Sanne and we hacked our bodies by combining them and paint on them: https://imgur.com/gtSZjpC
+
+THE CLASS WITH SHEILOH WHERE SHE BROUGHT A LOT OF TOOLS 
+The tool I chose was a knijpkat (a flashlight that turns on when you squeeze it) I inspected it by looking at it in different ways, I also drew it:   https://github.com/JuliaRomeyn/drawing-tool
+(i hope the link works)
+I learned from it that you can look at a thing that you don't dwell on for a longer period of time. While doing this, you can 
+make a hack out of it.
+
+THE CLASS WITH JOANA THAT STARTED WITH DANCING (I missed the dancing part so I can't write about that:()
+During the class we looked at one of our inspection tools. We looked into a gameboy. We thought about it having no sound, or only sound or replacing all the buttons and that that influences your behavior and how you act and use the tool. 
+
+FLORIAN CRAMER
+What is hacking? Hacking = chopping
+-> you can also be a graphic designer without having InDesign/Illustrator etc. You have to embed your own tools
+-> TMRC (tech model railroad club)of the MIT were the first hackers. subcultural experimentations
+
+non computarised hacking you can do with food/trash> thats what VARIA did f.e.
+
+take an existing thing, change something and make something new is a hacker approach. Taking systems and using them in a different way. 
+
+- firefox and linnus are made by hackers. 
+- John DRaper > Cap n Crunch flute in cereals > When Draper whistled on the flute that was in the cerals, he could use internet for free. 
+The first hacking collective was jargon file
+
+During the elections 10yrs ago in NL the computers were hacked, since then they don't use ocmputers for voting funfact!!
+
+The Yes Men produce fake news. They hacked WTO. They copied the whole website. People booked the yes men on their events instead of the real people from the original website. 
+
+Is hacking bad or good? What I explained before, there are white black (yes men, pirate bay) and grey hackers.
+
+
+I thought the lecture of Florian Cramer was super interesting. I learned a lot about different ways of hacking and also about different purposes of hacking. It's also nice to know about the beginning of hacking and the different implementations of hacking. 
+
+
+SOUP @VARIA
+For the class we had to bring an ingredient. I brought leek because I knew that we were going to make soup. It was considerate because leek is a common thing to put in a soup. Also its vegetarian and vegan so most people can eat it. And I bought it without a plastic bag. A bit unconsiderate was the fact that I didnt know where the leek came from bc it had no packaging. 
+
+FIrst a woman and a man talked about projects that VARIA does. Which was interesting bc I never thought of food or trash to be hacked. They talked abouot what potluck is. It means that you throw everything that people bring in one pan. We made a potluck soup with all the ingredients that we brought. 
+
+For the second part of the day we had to devide the class in two. One part had to make a soup for the other part of the class. I was in the group that made the tomato soup. We looked at the ingredients and we had to think what we wanted to put in there. We made a spicy soup but that was maybe not that considerate bc for some people it was too spicy. Also coocking in a large group is hard. Some people want this, some people want that. We tried to make the soup as considerate as possible. We asked if there were vegetarians etc in the other group for example. 
+
+
+
+
+
 
   
 
