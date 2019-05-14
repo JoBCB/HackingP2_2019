@@ -1,60 +1,83 @@
+# AUTONOMOUS HACKING  _ LOIS SIMON
 
-08/04   HACKING GLOSSARY
 
-THE CRITICAL ENGINEERING MANIFESTO
 
-Summary;
+
+<details><summary> <b>08/04   HACKING GLOSSARY </b> </summary>
+ 
+
+
+
+<br>
+<br>
+
+<b>THE CRITICAL ENGINEERING MANIFESTO<b>
+<br>Summary;
+<br>
+
+
 
 Engineering/Technology is the most transformative language of our time. 
 
-The Critical Engineer looks at the developments from different disciplines and the connections between the human 
-and the machine from the past and the present. 
+The Critical Engineer looks at the developments from different disciplines and the connections 
+between the human and the machine from the past and the present. 
 
 This knowledge could be strategically used, adopted, re-purposed and deployed.
 
-The Critical Engineer believes that written codes are expanding more and more through the social and psychological 
-aspects of our lives. 
+The Critical Engineer believes that written codes are expanding more and more through the social 
+and psychological aspects of our lives. 
 
 They also acknowledges and use the aspects of human vulnerability and dependency in relation with technology. 
 
 The Critical Engineer; recognises / observes /  exploits / expands / strategises / deconstructs / raises awareness
 
 Keywords; transformation / dependency / ‘machine’ / strategy / vulnerability / social and psychological 
+<br>
+<br>
+<br>
+<br>
 
 
+<b>DEFINITION OF ‘HACKING’ <b>
 
-DEFINITION OF ‘HACKING’ 
-
-HACKING;
+> HACKING;
 
 
-	•	Modern science
+•	Modern science
 
-	•	Influences; behaviour / knowledge / habits / desires / fears / ideals / norms 
+•	Influences; behaviour / knowledge / habits / desires / fears / ideals / norms 
 
-	•	Dissecting the past and present civilisation -> Influences / transforms / manipulates / 
-	        questions and collects data for future civilisation.
+•	Dissecting the past and present civilisation -> Influences / transforms / 
+        manipulates / questions and collects data for future civilisation.
 
-	•	Challenging / questioning the system of security 
+•	Challenging / questioning the system of security 
 
-	•	Loophole within a system
+•	Loophole within a system
 
-	•	Gaining unauthorised access to data in a system or computer.
+•	Gaining unauthorised access to data in a system or computer.
 
 
 Linked to illegal activities and rebellious behaviour (bias). But when and why is something considered as illegal? 
 The term hacking still has a negative signification while the concept of hacking is just as well in the 
 benefit of our civilisation. 
- 
+<br>
+<br>
+<br>
+<br>
 
-Examples of hacking (physical instead of digital);
-	⁃	Demonstrations 
-	⁃	Rivalry -> finding ways to distinguishing yourself, otherwise your not relevant anymore / enough
-	⁃	Surgery 
+<b>EXAMPLES OF HACKING (PHYSICAL INSTEAD OF DIGITAL) <b>
+	
+•	Demonstrations 
+
+•	Rivalry -> finding ways to distinguishing yourself, otherwise your not relevant anymore / enough
+
+•	Surgery 
+	
+</details>
 
 ------------------------------------------------------------------------------------------------------------------------
  
-11/04   observational tool exercises
+<details><summary> <b>11/04   observational tool exercises </b> </summary>
 
 Interface = 
 	-	In-between / two thing / boundaries between two things.
@@ -163,6 +186,7 @@ SOME INDIVIDUAL RESEARCH /  INTERESTING ARTICLES FOR HACKING GROUP PROJECT
 https://www.vice.com/nl/article/7xn5db/fotos-van-japanse-zakenmannen-die-op-straat-in-slaap-sukkelen
 https://www.vice.com/nl/article/43g89g/de-komst-van-meme-wetenschappers-is-onvermijdelijk
 
+</details>
 ------------------------------------------------------------------------------------------------------------------------
 
 17/04   CHOREOGRAPHY AND CONNECTIONS EXERCISE
