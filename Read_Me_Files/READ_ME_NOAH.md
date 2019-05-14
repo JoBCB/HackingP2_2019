@@ -44,7 +44,14 @@ We truly never know when we are being watched. We might be aware that we are bei
 
 ### Summary Hacking lecture by Florian Cramer
 
-### Summary excersises Varia
+### Excersises Varia
+It was an interesting aproach to what hacking can be: a recipe (for disaster).
+The excercises were introduced alongside an old method of cooking intended for variety and efficiency. Around the middle ages there have been a lot of famines. To which poor people remaining in groups had come up with a way to have a feast. Everybody would toss any foods they had left into a huge pot. This way everybody could enjoy all of the ingredients in one dish. There would more than enough food for everybody to enjoy. Not to speak of variation in their diets.
+The assignment was based around the topic of food and their origins as well as recipes. The idea behind it was to be cooking for the other group, but to first make decisions on wether the recipe was sufficient or if it needed anything else regarding healthy or eating consciously.
 
 
 ### Retrointrospection
+I enjoyed this practicemodule a lot because it gave me some fresh insights on the origins and applications of hacking. 
+Usually I would think of computers when hacking would be introduced in a conversation. A massive amount of theoretical aspects needs to be considered while doing a hack. This mainly spiked my interest, since I enjoy getting an overview of events happening within an intrinsic system. Knowing one's way through and through is the key to succes.
+All the assignments were allowing us to take a step back from our conventional beliefs on hacking. To afterwards in the main assignment revise our standpoints regarding hacking and to consequently apply our newly achieved knowlegde.
+I believe our group had an interesting approach to hacking. We used the definition of panopticon as our point of departure. We did research on what is considered panopticon in millenial times. Security camera's play the most sigfnicant role in this methodology.  We realised that we are being watched by them, but  yet are not able to see what exactly is being captured. We reasoned that when people are aware of being videotaped, they would respond entirely different. Out of which came the idea to use a camera of which its footage would be directly displayed to the subject. By allowing the subjects to see the footage of themselves we wanted to make people aware of the fact that they are continously consenting to being videotaped. As opposed to the usual security camera's which never feedback any sort of footage to its subject.
