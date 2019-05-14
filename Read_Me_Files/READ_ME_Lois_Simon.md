@@ -75,16 +75,28 @@ benefit of our civilisation.
 	
 </details>
 
-------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------
  
-<details><summary> <b>11/04   observational tool exercises </b> </summary>
+<details><summary> <b>11/04   OBSERVATIONAL TOOL EXERCISES </b> </summary>
+ 
 
-Interface = 
-	-	In-between / two thing / boundaries between two things.
-	-	It’s also the language it uses (computer language / human vocal and body language) 
-	-	Interface as an doorway/window (virtual)
-	-	Two things means that there is automatically a division. 
-	-	Bio hacking also is interface (chip into body or monitor for heart) 
+
+
+<br>
+<br>
+<b>INTERFACE <b> 
+	
+<br>
+	
+•	In-between / two thing / boundaries between two things.
+
+•	It’s also the language it uses (computer language / human vocal and body language) 
+
+•	Interface as an doorway/window (virtual)
+
+•	Two things means that there is automatically a division. 
+
+•	Bio hacking also is interface (chip into body or monitor for heart) 
 
 
 Example; the computer as an interface 
@@ -93,7 +105,7 @@ Media vs Interface - Marshall McLuhan
 
 Interface has many layers (like an union) 
 
-Statement; Autonomy is a branch of natural science which deals with the structural organisation of living things.
+> Autonomy is a branch of natural science which deals with the structural organisation of living things.
 
 Living things; not only bodies but also systems (digital networks).
 
