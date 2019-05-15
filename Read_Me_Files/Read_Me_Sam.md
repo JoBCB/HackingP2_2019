@@ -100,7 +100,12 @@ The system we hacked was about collaborated companies or about the concept of a 
 
 We divided the tasks for this video so that everyone was responsible for the finishing. Nanco, Koen and I wrote the concept, the script and the voice over. Louise and Sara did the styling of the video and Lois and Yorben did the final edit.
 
-
+<details><summary> Behind the scene </summary>
+  
+- https://www.youtube.com/watch?v=ZRoC1e8u2iE&feature=youtu.be
+</details>
+  
+  
 <datails> <summary> <b> FINAL VIDEO </b>  </summary>
   
 * https://www.youtube.com/embed/1ligJZKOAgc 
