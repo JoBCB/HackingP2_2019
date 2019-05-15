@@ -107,10 +107,7 @@ Hacking for me is that you take something and make it your own. With hacking you
 Also Steven de Peven made these signs that I think are amazing. He hacked the signs by putting them in a different environment while using the already existing signs: https://www.google.com/search?q=steven+de+peven+borden&rlz=1C5CHFA_enNL778NL780&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiJzrvDx53iAhULaVAKHXdQBTIQ_AUIDigB&biw=1311&bih=715#imgrc=ti48C5itHgQNjM:
 
 Our concept is to investigate Instagram's censorship policy to prove that there might be a possibility to do show a female's 
-nipple in the Instagram feed withoud it getting censored. The process of the group assignment started with research, then several
-meetings, creating the Instagram page, creating the Instagram content and then promoting and paying for one of our pictures
-to also invade the business part of Instagram (maybe it gets easier deleted there or faster). 
-The group work was interesting but I had the feeling that I didnt really fit in the group. I was more looking for a humourousful hack. I like it when a project is smartfunny. I think ours doesnt consist that much humour/playfulness. But im happy with the thing my group did although it wasnt really my interest.
+nipple in the Instagram feed withoud it getting censored. The process of the group assignment started with research, then several meetings, creating the Instagram page, creating the Instagram content and then promoting and paying for one of our pictures to also invade the business part of Instagram (maybe it gets easier deleted there or faster). 
 
 
 I really liked the last month. I know now what hacking is and what hacking means for me. For me it means accomplishing something/conveying a message in a smart and playfulness way. 
