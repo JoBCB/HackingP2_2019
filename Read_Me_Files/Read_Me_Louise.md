@@ -253,7 +253,7 @@ Transforming ‘going to a gym’ in something nice. In something you want to do
 We made a tell sell likely video to show the concept. 
 
 We divided the tasks. I was responsible for the styling and the casting of the set. 
-The tasks were well divided and together with each other we had a lot of fun. 
+The tasks were well divided and together with each other we had a lot of fun. We made up a huge concept with a lot  of potential.  
 
 </details>
 
@@ -278,7 +278,7 @@ It is something I would like to go further with.
 
  
  
- END VIDEO:
+FINAL VIDEO:
  https://youtu.be/1ligJZKOAgc
 </details>
 
