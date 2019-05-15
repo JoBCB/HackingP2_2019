@@ -73,16 +73,22 @@ Inspect how their censorship system work, In connection with sexuality or more s
 A group member shared she had an image blocked by the platform. Surpsrisingly (or not?) the image didn't seem sexual, the person was fully clothed and no body parts were visible though their clothes.
 we opened an <a href="https://www.instagram.com/kcahefil/">instegram account</a> and decided to gather as much photos as we can, so we could upload them through the week.
 
-My images
+We met at the library, where we decided to gather (take/create/Photoshop) images of female nipples, or things that look like female nipples or use male (which are concidered to be none sexual) nipple. wanted to have a bunch so we can then publish them consistently.
+
+My images consisted of a nipple pattern that became the profile picture, and a pancake on my knee, which we eventually did not upload (together with a few more).
 
 <a href="https://static.wixstatic.com/media/6272f6_3424dc73460843b08e6397b2e29ed610~mv2_d_1216_1216_s_2.png">img</a>
 
 <a href="https://static.wixstatic.com/media/6272f6_6463248de3464e3faeda5b65c9084480~mv2_d_3120_4160_s_4_2.jpg">img</a>
 
-We tried to capture images of things that looked like nipples, or sneak in a female or male (which are concidered to be none sexual) nipple.
 What I found the most emusing was the human female nipple that was pasted on a classic white matble female statue.
 As of now, none of the images was reported or banned by Instegram!
+I learned that at least in our case, the platform isn't that harsh and we slipped in quite a lot.
+I don't use it too much (Instagram) but learned a lot about the way their system works.
 
+All in all the group work was fairly simple and had a nice flow, we did meet a few times at the library and communicated a lot through our group chat,
+Where we shared our creations and other found information about the subject, and also decided our schedule.
+Mireille put a lot of effort into writing a protocole of our meeting (like points that were said) on her laptop!
 
 77777777777777777777777777777777777777777777777777777777777777777777777777777777777777
 
