@@ -245,6 +245,11 @@ _ What is your hacking method?
 _ If your method is a tool set, how would you explain to someone else how to use it? 
 _ In what way are these tools limited/biased?</i>
 
+</details>
+
+
+<details>
+ <summary><b>FINAL PROJECT</b></summary>
 For the final assignment we made a video. 
 Together with our group we had a lot of discussions about what we want to achieve within this autonomous hacking practice.
 We conclude that we were thinking way to difficult and went back to the core; hacking could be anything. 
