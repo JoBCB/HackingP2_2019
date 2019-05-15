@@ -56,6 +56,14 @@ HACKING;
 
 •	Gaining unauthorised access to data in a system or computer.
 
+•	Dumpster diving,  someone's trash is the other persons data.
+
+•	Questioning the value and concept of identity. 
+
+•	Fraud, avoiding the law
+
+
+
 
 Linked to illegal activities and rebellious behaviour (bias). But when and why is something considered as illegal? 
 The term hacking still has a negative signification while the concept of hacking is just as well in the 
@@ -366,6 +374,13 @@ trigger them and make them feel better / useful.
 
 Hacking strategies like this could increase the changing value of performing active actions. Such as going to the gym. 
 The aspect of staying in shape loses its value while the discount aspect get’s prioritised. 
+<br> <br />
+<br> <br />
+To me hacking is a strategic planned action focused on behavioural patterns. Mainly about the bugs of human existence.
+We find ourselfs in a society build up by structured systems that we assume to rely on. 
+I believe that the concept of hacking is a never ending process of evaluationg and questioning these structered systems. 
+
+
 
 <br> <br />
 
