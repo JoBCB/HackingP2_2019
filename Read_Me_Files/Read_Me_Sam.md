@@ -93,9 +93,10 @@ We created the Nuon Power Gym, where by generating energy by going to the fitnes
 We divided the tasks for this video so that everyone was responsible for the finishing. Nanco, Koen and I wrote the concept, the script and the voice over. Louise and Sara did the styling of the video and Lois and Yorben did the final edit.
 
 
-<b> FINAL VIDEO </b>  
+<datails> <summary> <b> FINAL VIDEO </b>  </summary>
   
 * https://www.youtube.com/embed/1ligJZKOAgc 
+</details>
 
 
 
