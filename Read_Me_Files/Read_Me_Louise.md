@@ -268,6 +268,7 @@ The part of anatomy really attracts me.
 It is something I would like to go further with. 
 
 These past weeks have made me look more around me. 
+
 You can easily use objects differently if where it is intended for.  
  
  
