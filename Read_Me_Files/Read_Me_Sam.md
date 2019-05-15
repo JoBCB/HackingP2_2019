@@ -84,7 +84,7 @@ I Really liked the hacking practice. Working with students from different discip
 
 <b>GROUP PROJECT</b>
 
-<details> <summary> Final group project</summary>
+<summary> Final group project</summary>
   
 As a group we initially discussed a lot about what hacking is. Everyone had their own vision, so it became clear to all of us how broad hacking is. We met on a daily basis and discussed various ideas. As a starting point we have tried to limit ourselves by working with '' daily movements '' from which we started to record our own daily movements such as making coffee, getting dressed, pressing on the light. During our meetings we also immediately did research into existing 'hacks'. We discovered that many of our ideas existed such as an energy-generating playground, energy-generating dance floor or a shoe which generates energy. 
 
@@ -97,7 +97,7 @@ We divided the tasks for this video so that everyone was responsible for the fin
   
 * https://www.youtube.com/embed/1ligJZKOAgc 
 
-</details>
+
 
 
 
