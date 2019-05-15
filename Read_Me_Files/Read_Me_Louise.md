@@ -269,7 +269,8 @@ It is something I would like to go further with.
 
 These past weeks have made me look more around me. 
 You can easily use objects differently if where it is intended for.  
- 
+A hacker is not only a person who uses computers to gain unauthorized access to data in a negative way. <-- prejudgement
+A hacker can also be positive active in the analogue world. 
  
  
  END VIDEO:
