@@ -102,9 +102,22 @@ FIrst a woman and a man talked about projects that VARIA does. Which was interes
 
 For the second part of the day we had to devide the class in two. One part had to make a soup for the other part of the class. I was in the group that made the tomato soup. We looked at the ingredients and we had to think what we wanted to put in there. We made a spicy soup but that was maybe not that considerate bc for some people it was too spicy. Also coocking in a large group is hard. Some people want this, some people want that. We tried to make the soup as considerate as possible. We asked if there were vegetarians etc in the other group for example. 
 
+Hacking for me is that you take something and make it your own. With hacking you can convey a message in a playfu way. For me I like hacking the most when it contains humour. Now after I learned about hacking I see hacks everywhere. Lifehacks also really interest me and interest me even more now. I want to go to Japan. Hacks are smart and funny. This guy is amazing: https://www.instagram.com/josephsmachines/ 
+
+Also Steven de Peven made these signs that I think are amazing. He hacked the signs by putting them in a different environment while using the already existing signs: https://www.google.com/search?q=steven+de+peven+borden&rlz=1C5CHFA_enNL778NL780&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiJzrvDx53iAhULaVAKHXdQBTIQ_AUIDigB&biw=1311&bih=715#imgrc=ti48C5itHgQNjM:
+
+Our concept is to investigate Instagram's censorship policy to prove that there might be a possibility to do show a female's 
+nipple in the Instagram feed withoud it getting censored. The process of the group assignment started with research, then several
+meetings, creating the Instagram page, creating the Instagram content and then promoting and paying for one of our pictures
+to also invade the business part of Instagram (maybe it gets easier deleted there or faster). 
+The group work was interesting but I had the feeling that I didnt really fit in the group. I was more looking for a humourousful hack. I like it when a project is smartfunny. I think ours doesnt consist that much humour/playfulness. But im happy with the thing my group did although it wasnt really my interest.
 
 
+I really liked the last month. I know now what hacking is and what hacking means for me. For me it means accomplishing something/conveying a message in a smart and playfulness way. 
 
+Thank you!
+
+grJulia
 
 
   
