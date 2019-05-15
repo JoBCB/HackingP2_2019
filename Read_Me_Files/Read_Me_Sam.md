@@ -84,13 +84,6 @@ I Really liked the hacking practice. Working with students from different discip
 
 <b>GROUP PROJECT</b>
 
-We had a few discussions on what to "Hack" my first thoughts were to hack digitally, a system or a newspaper. Since we are in a big group with a lot of voices we most of the time discussed what hacking is and what to hack. This got us into new findings of hacking. My digital vision of hacking dissapeared within these discussions, which was not a problem. We talked about problems in our personal life and got to the subject of movement. We wanted to start by hacking movement, like a shoe which generates energy. In the classes we shifted to new ideas like the chainreaction of objects which simplifies life. Although this was a fun day and a nice "hack" it was not the end result we were looking for. We came back to the movement hack and were still interested in generating energy. We had some discussions and a lot of ideas and hacks, but our final result came from our lack of motivation to go to the gym.
-
-We created the Nuon Power Gym, where by generating energy by going to the fitness. You help the power company Nuon by generating energy for them, in return you get free fitness and so called: 'Energy Points' which you can get discounts on your energy bill if you get your power from Nuon. To present our hack we created a commercial.
-
-For this commercial we all had our tasks, for me it was shooting the film, creating the graphic visuals and editing it with Louis.
-
-
 <details> <summary> Final group project</summary>
   
 As a group we initially discussed a lot about what hacking is. Everyone had their own vision, so it became clear to all of us how broad hacking is. We met on a daily basis and discussed various ideas. As a starting point we have tried to limit ourselves by working with '' daily movements '' from which we started to record our own daily movements such as making coffee, getting dressed, pressing on the light. During our meetings we also immediately did research into existing 'hacks'. We discovered that many of our ideas existed such as an energy-generating playground, energy-generating dance floor or a shoe which generates energy. 
