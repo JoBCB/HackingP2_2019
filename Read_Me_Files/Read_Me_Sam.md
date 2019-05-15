@@ -4,10 +4,14 @@
 
 <b>What is hacking?</b> 
 <summary> Examples</summary>
+
 * The gaining of unauthorized access to data in a system or computer.
 * Disturbing the system.
 * Using a clothes peg to prevent a trouser leg from getting caught in a bicycle chain is also basically a hack.
 * If two groups do not speak the same language, you come up with a new language that both understand. Language hack.
+
+<b> What we take for granted is called into question </b>
+
 
 ---
 
@@ -37,13 +41,15 @@
 <b> Lessons </b>
 
 <i> 
-We were introduced to hacking in the various classes offered. At miscellaneous in Rotterdam South we had to make a recipe for soup. You could fill in how you approached this yourself. For example, you could look at the workings of individual ingredients to do something different from what it is normally intended for.
-
+We were introduced to hacking in the various classes offered. At miscellaneous in Rotterdam South we had to make a recipe for soup. You could fill in how you approached this yourself. For example, you could look at the workings of individual ingredients to do something different from what it is normally intended for. In the lessons we also saw various examples of artists who performed certain hacks.
 </i>
+
+
 
 <details>  <summary>
  Choreography
   </summary> 
+  
   
  * A concept that is difficult to summarize, you cannot control it.
 Constant struggle with past present and future.
