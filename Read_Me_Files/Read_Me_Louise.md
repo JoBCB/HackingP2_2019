@@ -262,15 +262,20 @@ The tasks were well divided and together with each other we had a lot of fun.
 
 <details>
  <summary><b><i>Conclusion</i></b></summary>
+ 
+ These past weeks have made me look more around me. 
+You can easily use objects differently if where it is intended for.  
+A hacker is not only a person who uses computers to gain unauthorized access to data in a negative way. <-- prejudgement.
+A hacker can also be positive active in the analogue world. White hat hacker/ Grey hat hacker/ Black hat hacker.
+
+
+
  _I learned that hacking can be anything! 
 You can find hacks everywhere around you.
 The part of anatomy really attracts me. 
 It is something I would like to go further with. 
 
-These past weeks have made me look more around me. 
-You can easily use objects differently if where it is intended for.  
-A hacker is not only a person who uses computers to gain unauthorized access to data in a negative way. <-- prejudgement.
-A hacker can also be positive active in the analogue world. White hat hacker/ Grey hat hacker/ Black hat hacker.
+
  
  
  END VIDEO:
