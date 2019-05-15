@@ -88,3 +88,10 @@ _With the installation Public Gaze, we intervened in this system by adding an el
 
 You could say that a bug in our system would be that as soon as a person is in front of the camera, they are being filmed. That makes that in the first seconds there is still no choice for the person in question. This problem could be fixed by displaying the footage bigger, so people know that that is happening before they get their coffee there. For our installation, though, I think for this installation it is important that people don't realize right away they're being filmed.
 
+## Group project "Public Gaze"
+
+My role within the group: 
+- concept development 
+- concept realisation: helping with coding (Nikki did most of the coding), testing the system on different computers, trying out different ways to create the installation, editing the presentation video
+- co-writing the final exhibition text together with Nikki. 
+
