@@ -74,17 +74,9 @@ Constant struggle with past present and future.
 
 ---
 
-
-
-<details> <summary> <b> Reflection hacking practice </b> </summary>
-
-I Really liked the hacking practice. Working with students from different disciplines also appeals to me. You notice that everyone has a different idea of designing and we all have other strengths that you can combine into something beautiful. I had prepared myself for a bit more digital work, which I found a bit disappointing in the beginning. As the practice progressed I noticed that the practice is mainly about providing tools to hack into something and actually understanding hacking. You can fill in how you do this with your final project. In the beginning I avoided github a bit because I didn't know how it worked. But now I secretly enjoyed working in github. I have been able to learn things from my teammates in terms of layout, something that will also help me in the future. keeping track of your completed assignments and seeing that at the end also gives a good feeling and an overview of what you have learned in recent weeks.
-</details>
-
-
 <b>GROUP PROJECT</b>
 
-<summary> Final group project</summary>
+<details> <summary> Final group project</summary>
   
 As a group we initially discussed a lot about what hacking is. Everyone had their own vision, so it became clear to all of us how broad hacking is. We met on a daily basis and discussed various ideas. As a starting point we have tried to limit ourselves by working with '' daily movements '' from which we started to record our own daily movements such as making coffee, getting dressed, pressing on the light. During our meetings we also immediately did research into existing 'hacks'. We discovered that many of our ideas existed such as an energy-generating playground, energy-generating dance floor or a shoe which generates energy. 
 
@@ -98,7 +90,12 @@ We divided the tasks for this video so that everyone was responsible for the fin
 * https://www.youtube.com/embed/1ligJZKOAgc 
 </details>
 
+---
 
+<details> <summary> <b> Reflection hacking practice </b> </summary>
+
+I Really liked the hacking practice. Working with students from different disciplines also appeals to me. You notice that everyone has a different idea of designing and we all have other strengths that you can combine into something beautiful. I had prepared myself for a bit more digital work, which I found a bit disappointing in the beginning. As the practice progressed I noticed that the practice is mainly about providing tools to hack into something and actually understanding hacking. You can fill in how you do this with your final project. In the beginning I avoided github a bit because I didn't know how it worked. But now I secretly enjoyed working in github. I have been able to learn things from my teammates in terms of layout, something that will also help me in the future. keeping track of your completed assignments and seeing that at the end also gives a good feeling and an overview of what you have learned in recent weeks.
+</details>
 
 
 
