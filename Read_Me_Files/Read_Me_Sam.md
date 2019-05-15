@@ -9,6 +9,7 @@
 * Disturbing the system.
 * Using a clothes peg to prevent a trouser leg from getting caught in a bicycle chain is also basically a hack.
 * If two groups do not speak the same language, you come up with a new language that both understand. Language hack.
+* come up with a new meaning for the original definition.
 
 <b> What we take for granted is called into question </b>
 
