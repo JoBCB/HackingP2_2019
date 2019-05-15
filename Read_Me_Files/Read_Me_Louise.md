@@ -251,6 +251,10 @@ We conclude that we were thinking way to difficult and went back to the core; ha
 However, we conclude that we wanted a big concept because we are with a large group. So, we came up with a concept. 
 Transforming ‘going to a gym’ in something nice. In something you want to do & you earns money for.
 We made a tell sell likely video to show the concept. 
+
+We divided the tasks. I was responsible for the styling and the casting of the set. 
+The tasks were well divided and together with each other we had a lot of fun. 
+
 </details>
 
 
