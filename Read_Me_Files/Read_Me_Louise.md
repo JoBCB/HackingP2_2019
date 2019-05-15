@@ -266,6 +266,11 @@ The tasks were well divided and together with each other we had a lot of fun.
 You can find hacks everywhere around you.
 The part of anatomy really attracts me. 
 It is something I would like to go further with. 
+
+These past weeks have made me look more around me. 
+You can easily use objects differently if where it is intended for.  
+ 
+ 
  
  END VIDEO:
  https://youtu.be/1ligJZKOAgc
