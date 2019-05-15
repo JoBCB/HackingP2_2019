@@ -35,6 +35,12 @@
 ---
 
 <b> Lessons </b>
+
+<i> 
+We were introduced to hacking in the various classes offered. At miscellaneous in Rotterdam South we had to make a recipe for soup. You could fill in how you approached this yourself. For example, you could look at the workings of individual ingredients to do something different from what it is normally intended for.
+
+</i>
+
 <details>  <summary>
  Choreography
   </summary> 
