@@ -16,11 +16,9 @@ Check list for the Read_Me file:
  7. revise all the topics above and reflect on the possible meaning of 'Hacking' (Respond to the questions: What is the context in which you operated? What phygical systems did you investigate? What did you find? What is your hacking method? If your method is a tool set, how would you explain to someone else how to use it? In what way are these tools limited/biased?);
 
 
-+ - - - - - + +
-
-
 Hacker: n. [originally, someone who makes furniture with an axe](http://www.catb.org/~esr/jargon/html/H/hacker.html) 
 
++ - - - - - + +
 
 To hack:
 to cut with heavy blows in an irregular or random fashion;
@@ -45,6 +43,7 @@ to make a clever, benign, and ethical prank or practical joke.
 "The hacker class desires knowledge, not education. [...] Hacker knowledge implies, in its practice, a politics of free information, free learning, the gift of the result to a network of peers."  — A Hacker Manifesto [version 4.0], by McKenzie Wark, 2004
 
 [> More links <](https://www.obn.org/hackers/links.htm)
+
 
 ## WEEK 1: Introduction
 
