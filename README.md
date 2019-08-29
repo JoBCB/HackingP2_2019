@@ -36,11 +36,14 @@ to make a clever, benign, and ethical prank or practical joke.
 "Hack, hacker or hacking? These concepts can be imagined as expansive, limiting and/or controversial depending on the socio-cultural forces at play." [TransHackFeminist Manifesto!](https://transhackfeminist.noblogs.org/post/2014/07/29/transhackfeminist-manifesto/)
 
 
+“Hacking is a tactical skill with a limited half-life (…); hacker’s indispensable virtuosity is tied to a rapidly changing technological environment, that it explores and in which it intervenes.” Claus Pias — Source: Dominik Landwehr (Hg.): Hacking; Edition Digital Culture 2; Migros-Kulturprozent, Christoph Merian Verlag; Oktober 2014, Deutsch/Englisch, ISBN
+
 
 "Our lot is cast with technoscience, where nothing is so sacred that it cannot be re-engineered and transformed so as to widen our aperture of freedom, extending to gender and the human. To say that nothing is sacred, that nothing is transcendent or protected from the will to know, to tinker and to hack, is to say that nothing is supernatural."
  THE XENOFEMINIST MANIFESTO: A POLITICS FOR ALIENATION, LABORIA CUBONIKS 
 
 "The hacker class desires knowledge, not education. [...] Hacker knowledge implies, in its practice, a politics of free information, free learning, the gift of the result to a network of peers."  — A Hacker Manifesto [version 4.0], by McKenzie Wark, 2004
+
 
 [> More links <](https://www.obn.org/hackers/links.htm)
 
