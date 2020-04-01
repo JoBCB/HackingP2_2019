@@ -46,7 +46,7 @@ to make a clever, benign, and ethical prank or practical joke.
 
 
 [> More links <](https://www.obn.org/hackers/links.htm)
-
+[> Hackersethics wiki link <](https://hackingwithcare.in/wiki/doku.php/hackersethics)
 
 ## WEEK 1: Introduction
 
