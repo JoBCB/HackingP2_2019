@@ -76,6 +76,8 @@ LOCATION: WH.02.108
 - - - Group #05: [The Conscience of a Hacker](https://monoskop.org/media/text/laboria_cuboniks_the_xenofeminist_manifesto_2018/) - read ' 0X00'; '0X01'; '0X11'; ' 0X14' and ' 0X1A'
 
 
+- - [Hackers of Resistance](http://wearehors.xyz/) - [aka HORs](https://vimeo.com/216414714)
+
 **4** Set-up Github account; 
 
 *homeworks to-day* bring an 'inspection tool'.
@@ -154,7 +156,8 @@ More references from Joana:
 	•on 'Hacking' the body/ies 02: https://possiblebodies.constantvzw.org/inventory/?about)
 	•on 'Hacking' Language: http://siusoon.net/vocable-code/
 	•on 'Hacking' Cultures: https://www.lullabot.com/podcasts/hacking-culture
-
+	
+	
 
 **HOMEWORK** bring 'an ingredient' for the next class at [Varia](http://varia.zone/en/)!
 
