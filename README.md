@@ -73,7 +73,7 @@ LOCATION: WH.02.108
 
 - - - Group #04: [THE CRITICAL ENGINEERING MANIFESTO](https://criticalengineering.org/) 
 
-- - - Group #05: [The Conscience of a Hacker](https://monoskop.org/media/text/laboria_cuboniks_the_xenofeminist_manifesto_2018/) - read ' 0X00'; '0X01'; '0X11'; ' 0X14' and ' 0X1A' [further reading](https://www.metamute.org/editorial/articles/appropriating-alien-critique-xenofeminism)
+- - - Group #05: [THE XENOFEMINIST MANIFESTO: A POLITICS FOR ALIENATION](https://monoskop.org/media/text/laboria_cuboniks_the_xenofeminist_manifesto_2018/) - read ' 0X00'; '0X01'; '0X11'; ' 0X14' and ' 0X1A' [Click here for further reading.](https://www.metamute.org/editorial/articles/appropriating-alien-critique-xenofeminism)
 
 
 - - [Hackers of Resistance](http://wearehors.xyz/) - [aka HORs](https://vimeo.com/216414714)
