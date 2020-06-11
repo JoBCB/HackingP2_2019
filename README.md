@@ -78,6 +78,9 @@ LOCATION: WH.02.108
 
 - - [Hackers of Resistance](http://wearehors.xyz/) - [aka HORs](https://vimeo.com/216414714)
 
+- - [Hacketeria Network](https://www.hackteria.org/wiki/Main_Page)
+
+
 **4** Set-up Github account; 
 
 *homeworks to-day* bring an 'inspection tool'.
