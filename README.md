@@ -49,6 +49,12 @@ to make a clever, benign, and ethical prank or practical joke.
 
 [> Hackers Ethics & History + Manifestos <](https://hackingwithcare.in/wiki/doku.php/hackersethics)
 
+
+[> Hackers of Resistance](http://wearehors.xyz/) - [aka HORs](https://vimeo.com/216414714)
+
+[> Hacketeria Network](https://www.hackteria.org/wiki/Main_Page)
+
+
 ## WEEK 1: Introduction
 
 **MON 8th April: 10h-13h**
@@ -75,10 +81,6 @@ LOCATION: WH.02.108
 
 - - - Group #05: [THE XENOFEMINIST MANIFESTO: A POLITICS FOR ALIENATION](https://monoskop.org/media/text/laboria_cuboniks_the_xenofeminist_manifesto_2018/) - read ' 0X00'; '0X01'; '0X11'; ' 0X14' and ' 0X1A' [Click here for further reading.](https://www.metamute.org/editorial/articles/appropriating-alien-critique-xenofeminism)
 
-
-- - [Hackers of Resistance](http://wearehors.xyz/) - [aka HORs](https://vimeo.com/216414714)
-
-- - [Hacketeria Network](https://www.hackteria.org/wiki/Main_Page)
 
 
 **4** Set-up Github account; 
