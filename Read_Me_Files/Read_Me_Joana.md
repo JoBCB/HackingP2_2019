@@ -1,13 +1,17 @@
-an example of a Read_Me file.
+An example of a Read_Me file.
 
+[check here how to use Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-**Jo:** knees (10 years older than the rest of the body) + JavaScript (computer language)
+**Joana Intro:** 
+
+* knees (10 years older than the rest of the body) + JavaScript (computer language)
+
 
 ## My lexicon: 
 
 Hacking — > > inspecting and intervening  
 
-
+....
 
 ## Referecences: 
 
@@ -15,3 +19,4 @@ Hacking — > > inspecting and intervening
 
 [on 'Hacking' Language](http://siusoon.net/vocable-code/)
 
+....
