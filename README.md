@@ -137,7 +137,7 @@ Location: Education Station WH 02.209
 2 workshops, divided in two groups (all students will do both, switch at 12.30): 
 
 
-- - -  Shailoh: Anatomy of Connectologogy
+- - -  Shailoh: Anatomy of Connectologogy 'hacking' requires developing a sensitivity for how systems work and finding an entry point. In this workshop, we will dive into how things are connected, assembled, compiled and held together in a pipeline, looking at the moving parts of feedback loops and switches in order to investigate possible ways of modifying or intervening in existing systems.
 
 ***
 
