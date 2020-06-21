@@ -110,6 +110,23 @@ LOCATION: WH.04.115
 
 Forming groups
 
+- - - -
+
+LOCATION: Drawing Station
+
+
+**Anatomic Drawing Lessons (with Joseph Huges)**
+
+
+For this workshop you will need to bring to the lesson:
+
+* your inspection tools(s);
+* 11 A3 scans/ photocopies/images of your body (see image provided);
+* an example of your favorite / most recent hack in picture format (A4);
+* a piece of fruit;
+
+
+
 
 ## WEEK 2 Hacking in Context
 
